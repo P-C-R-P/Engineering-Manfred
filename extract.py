@@ -30,3 +30,32 @@ print(in_text_4)
 with open('./files/manfred_extracted.txt', 'w', encoding = 'utf-8') as manfred_extract:
         manfred_final = manfred_extract.write(text[in_text_3 : in_text_4 + len(manfred_end[0])])
         print(manfred_final)
+
+
+# ------------------- #
+with open('./files/manfred_extracted.txt', 'r', encoding="utf-8") as file:
+    data = file.read()
+
+data = data.replace('_', '')
+
+new = re.split('DRAMATIS', data)
+for i in new:
+    print(i)
+
+data = "DRAMATIS" + new[1]
+
+new2 = re.split('FOOTNOTES', data)
+for i in new2:
+    print(i)
+
+data = new2[0]
+
+# matches footnotes in text
+data = re.sub("\[\d{3}\]", '', data)
+# converts ACT 1 to roman numerals (inconsistent Gutenberg number schemes)
+data = re.sub("ACT\s\d", 'ACT I', data)
+# converts SCENE 1 to roman numerals
+data = re.sub("SCENE\s\d", 'SCENE I', data)
+
+with open('./files/manfred_extracted.txt', 'w', encoding="utf-8") as file:
+    file.write(data)
