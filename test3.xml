@@ -31,7 +31,9 @@
     </head>
     <text>
         <act1>
-            <scene1>SCENE I.--Manfred alone.--Scene, a Gothic Gallery.--
+            <scene1>ACT I.
+                
+                SCENE I.--Manfred alone.--Scene, a Gothic Gallery.--
 
                 Time, Midnight.
                 
@@ -1008,7 +1010,8 @@ You should have been a hunter.--Follow me.
             </scene2>
         </act1>
         <act2>
-            <scene1>
+            <scene1>ACT II.
+
                 SCENE I.--A Cottage among the Bernese Alps.--
 
 MANFRED and the CHAMOIS HUNTER.
@@ -2502,7 +2505,8 @@ I now depart a debtor. Fare ye well!
             </scene4>
         </act2>
         <act3>
-            <scene1>
+            <scene1>ACT III.
+                
                 SCENE I.--A Hall in the Castle of Manfred.
 
 
