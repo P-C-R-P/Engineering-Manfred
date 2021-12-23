@@ -13,4 +13,4 @@ This project aims to extract textual data from Project Gutenberg (txt format), e
 
 # Authors
 
-Project developed by Philipa Payne and Fábio Cabral for the "Ingénierie Documentaire" class by Michael Piotrowksi and Moritz Feichtinger at Université de Lausanne during the Winter semester of 2021.
+Project developed by [Philipa Payne](https://github.com/P-C-R-P) and [Fábio Cabral](https://github.com/ftorresc/] for the "Ingénierie Documentaire" class by Michael Piotrowksi and Moritz Feichtinger at Université de Lausanne during the Winter semester of 2021.
