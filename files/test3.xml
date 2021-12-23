@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="template.xsl" type="text/xsl"?>
 <drama>
-    <head>
+    <header>
         <castlist>DRAMATIS PERSONÆ.
 
 
@@ -28,7 +29,7 @@
             The Destinies.
         
             Spirits, etc.</castlist>
-    </head>
+    </header>
     <text>
         <act1>
             <scene1>ACT I.
@@ -2506,7 +2507,7 @@ I now depart a debtor. Fare ye well!
         </act2>
         <act3>
             <scene1>ACT III.
-                
+
                 SCENE I.--A Hall in the Castle of Manfred.
 
 
