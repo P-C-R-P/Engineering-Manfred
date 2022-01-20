@@ -46,6 +46,13 @@ with open (inputFile, 'r', encoding="utf-8") as txt_file:
 #            act = ET.SubElement(drama, 'act', attrib = {'n': str(countActs)})
             scene.text = b.group()
 
+        c = re.match(r'\s*(SCENE\s(IV)\.)', line)
+        if c:
+            print("Scene caught")
+            scene = ET.SubElement(drama, 'scene', attrib = {'n': c.group(2)})
+#            act = ET.SubElement(drama, 'act', attrib = {'n': str(countActs)})
+            scene.text = c.group()
+
         else:
             pass
 

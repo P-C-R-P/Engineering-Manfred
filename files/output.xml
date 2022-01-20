@@ -12,9 +12,11 @@
     <scene n="I">             SCENE I.</scene>
     <scene n="II">          SCENE II.</scene>
     <scene n="III">            SCENE III.</scene>
+    <scene n="IV">    SCENE IV.</scene>
     <act n="3">                                 ACT III.</act>
     <scene n="I">             SCENE I.</scene>
     <scene n="II">                      SCENE II.</scene>
     <scene n="III">       SCENE III.</scene>
+    <scene n="IV">                   SCENE IV.</scene>
   </drama>
 </document>
