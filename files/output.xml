@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <title>Manfred - Ingénierie Documentaire (2021)</title>
+    <authors>compiled by Philipa Payne et Fábio Cabral</authors>
+  </header>
+  <drama>
+    <act n="1">                                  ACT I.</act>
+    <scene n="I">      SCENE I.</scene>
+    <scene n="II">               SCENE II.</scene>
+    <act n="2">                                 ACT II.</act>
+    <scene n="I">             SCENE I.</scene>
+    <scene n="II">          SCENE II.</scene>
+    <scene n="III">            SCENE III.</scene>
+    <act n="3">                                 ACT III.</act>
+    <scene n="I">             SCENE I.</scene>
+    <scene n="II">                      SCENE II.</scene>
+    <scene n="III">       SCENE III.</scene>
+  </drama>
+</document>
