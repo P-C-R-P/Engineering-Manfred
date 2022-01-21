@@ -44,11 +44,25 @@ with open (inputFile, 'r', encoding="utf-8") as txt_file:
         if b:
             countScenes += 1
             print("Scene caught")
-            scene = ET.SubElement(drama, 'scene', attrib = {'n': str(countScenes)})
+            scene = ET.SubElement(act, 'scene', attrib = {'n': str(countScenes)})
             scene.text = b.group()
+
+        c = re.match(r'\s* ([A-Z]*)\.', line)
+        if c:
+            print("Character caught")
+            character = ET.SubElement(scene, 'character', attrib = {'name': c.group(1)})
+            character.text = c.group()
+
+        d = re.match(r'\s* ([A-Z]* [A-Z]*)\.', line)
+        if d:
+            print("Two-part character caught")
+            character = ET.SubElement(scene, 'character', attrib = {'name': d.group(1)})
+            character.text = d.group()
         else:
             pass
 
+# regex for one part characters:" [A-Z]*\." 
+# regex for two part characters:" [A-Z]* [A-Z]*\."
 
 ET.indent(tree)
 tree.write(xmlFile, encoding="utf-8", xml_declaration=True)

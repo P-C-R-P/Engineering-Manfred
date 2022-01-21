@@ -5,18 +5,237 @@
     <authors>compiled by Philipa Payne et Fábio Cabral</authors>
   </header>
   <drama>
-    <act n="1">                                  ACT I.</act>
-    <scene n="1">      SCENE I.</scene>
-    <scene n="2">               SCENE II.</scene>
-    <act n="2">                                 ACT II.</act>
-    <scene n="1">             SCENE I.</scene>
-    <scene n="2">          SCENE II.</scene>
-    <scene n="3">            SCENE III.</scene>
-    <scene n="4">    SCENE IV.</scene>
-    <act n="3">                                 ACT III.</act>
-    <scene n="1">             SCENE I.</scene>
-    <scene n="2">                      SCENE II.</scene>
-    <scene n="3">       SCENE III.</scene>
-    <scene n="4">                   SCENE IV.</scene>
+    <act n="1">                                  ACT I.<scene n="1">      SCENE I.<character name="FIRST SPIRIT">                               FIRST SPIRIT.</character>
+        <character name="SECOND SPIRIT">                       SECOND SPIRIT.</character>
+        <character name="THIRD SPIRIT">                        THIRD SPIRIT.</character>
+        <character name="FIRST SPIRIT">     FIRST SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="MANFRED">     MANFRED.</character>
+      </scene>
+      <scene n="2">               SCENE II.<character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+      </scene>
+    </act>
+    <act n="2">                                 ACT II.<scene n="1">             SCENE I.<character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+        <character name="MANFRED">     MANFRED.</character>
+      </scene>
+      <scene n="2">          SCENE II.<character name="WITCH">     WITCH.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="WITCH">     WITCH.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="WITCH">     WITCH.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="WITCH">     WITCH.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="WITCH">     WITCH.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="WITCH">     WITCH.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="WITCH">     WITCH.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="WITCH">     WITCH.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="WITCH">     WITCH.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="WITCH">     WITCH.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="WITCH">     WITCH.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="MANFRED">     MANFRED.</character>
+      </scene>
+      <scene n="3">            SCENE III.<character name="FIRST DESTINY">     FIRST DESTINY.</character>
+        <character name="SECOND DESTINY">     SECOND DESTINY.</character>
+        <character name="THIRD DESTINY">     THIRD DESTINY.</character>
+        <character name="FIRST DESTINY">     FIRST DESTINY.</character>
+        <character name="NEMESIS">     NEMESIS.</character>
+      </scene>
+      <scene n="4">    SCENE IV.<character name="FIRST DESTINY">     FIRST DESTINY.</character>
+        <character name="SECOND DESTINY">     SECOND DESTINY.</character>
+        <character name="THIRD DESTINY">     THIRD DESTINY.</character>
+        <character name="NEMESIS">     NEMESIS.</character>
+        <character name="SECOND SPIRIT">     SECOND SPIRIT.</character>
+        <character name="THIRD SPIRIT">     THIRD SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="FOURTH SPIRIT">     FOURTH SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="FIFTH SPIRIT">     FIFTH SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="FIRST DESTINY">     FIRST DESTINY.</character>
+        <character name="NEMESIS">     NEMESIS.</character>
+        <character name="FIRST DESTINY">     FIRST DESTINY.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="NEMESIS">     NEMESIS.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="NEMESIS">     NEMESIS.</character>
+        <character name="ARIMANES">     ARIMANES.</character>
+        <character name="NEMESIS">     NEMESIS.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="NEMESIS">     NEMESIS.</character>
+        <character name="ARIMANES">     ARIMANES.</character>
+        <character name="NEMESIS">     NEMESIS.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="NEMESIS">     NEMESIS.</character>
+        <character name="NEMESIS">     NEMESIS.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="NEMESIS">     NEMESIS.</character>
+        <character name="MANFRED">     MANFRED.</character>
+      </scene>
+    </act>
+    <act n="3">                                 ACT III.<scene n="1">             SCENE I.<character name="MANFRED">     MANFRED.</character>
+        <character name="HERMAN">     HERMAN.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="HERMAN">     HERMAN.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="HERMAN">     HERMAN.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+      </scene>
+      <scene n="2">                      SCENE II.<character name="HERMAN">     HERMAN.</character>
+        <character name="MANFRED">     MANFRED.</character>
+      </scene>
+      <scene n="3">       SCENE III.<character name="HERMAN">     HERMAN.</character>
+        <character name="MANUEL">     MANUEL.</character>
+        <character name="HERMAN">     HERMAN.</character>
+        <character name="MANUEL">     MANUEL.</character>
+        <character name="HERMAN">     HERMAN.</character>
+        <character name="MANUEL">     MANUEL.</character>
+        <character name="HERMAN">     HERMAN.</character>
+        <character name="MANUEL">     MANUEL.</character>
+        <character name="HERMAN">     HERMAN.</character>
+        <character name="MANUEL">     MANUEL.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="HERMAN">     HERMAN.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANUEL">     MANUEL.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="HERMAN">     HERMAN.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="HERMAN">     HERMAN.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANUEL">     MANUEL.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANUEL">     MANUEL.</character>
+      </scene>
+      <scene n="4">                   SCENE IV.<character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="SPIRIT">     SPIRIT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+        <character name="MANFRED">     MANFRED.</character>
+        <character name="ABBOT">     ABBOT.</character>
+      </scene>
+    </act>
   </drama>
 </document>

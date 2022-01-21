@@ -3,6 +3,7 @@ import os
 import re
 import urllib.request
 
+# This initial block downloads the text, writes an initial file with the whole text and a second one containing only Manfred
 # Download and write the full file 
 response = urllib.request.urlopen('https://www.gutenberg.org/files/20158/20158-0.txt')
 data = response.readlines()
@@ -32,12 +33,16 @@ with open('./files/manfred_extracted.txt', 'w', encoding = 'utf-8') as manfred_e
         print(manfred_final)
 
 
-# ------------------- #
+#---------------------------------------------------------#
+#This block takes the Manfred text and prepares it for further processing
+
 with open('./files/manfred_extracted.txt', 'r', encoding="utf-8") as file:
     data = file.read()
 
+#removes underscores
 data = data.replace('_', '')
 
+#splits the text at the initial castlist and removes footnotes
 new = re.split('DRAMATIS', data)
 for i in new:
     print(i)
@@ -50,12 +55,40 @@ for i in new2:
 
 data = new2[0]
 
-# matches footnotes in text
+# removes footnotes in text
 data = re.sub("\[\d{3}\]", '', data)
 # converts ACT 1 to roman numerals (inconsistent Gutenberg number schemes)
 data = re.sub("ACT\s\d", 'ACT I', data)
 # converts SCENE 1 to roman numerals
 data = re.sub("SCENE\s\d", 'SCENE I', data)
+# Normalize character indications. Adds invisible unicode character U+200A at the beginning to make regex capturing easier at a later stage
+data = re.sub("Abbot\.", ' ABBOT.', data)
+data = re.sub("Manuel\. ", ' MANUEL.', data)
+data = re.sub("Man\.", ' MANFRED.', data)
+data = re.sub("Nem\.", ' NEMESIS.', data)
+data = re.sub("First Spirit\.", ' FIRST SPIRIT.', data)
+data = re.sub("Voice of the Third Spirit\.", ' THIRD SPIRIT.', data)
+data = re.sub("Voice of the Second Spirit\.", ' SECOND SPIRIT.', data)
+data = re.sub("Second Spirit\.", ' SECOND SPIRIT.', data)
+data = re.sub("Third Spirit\.", ' THIRD SPIRIT.', data)
+data = re.sub("Fourth Spirit\.", ' FOURTH SPIRIT.', data)
+data = re.sub("Fifth Spirit\.", ' FIFTH SPIRIT.', data)
+data = re.sub("Spirit\.", ' SPIRIT.', data)
+data = re.sub("C\. Hun\.", ' CHAMOIS HUNTER.', data)
+data = re.sub("Chamois Hunter\. ", ' CHAMOIS HUNTER.', data)
+data = re.sub("Her\.", ' HERMAN.', data)
+data = re.sub("Witch\.", ' WITCH.', data)
+data = re.sub("Ari\.", ' ARIMANES.', data)
+data = re.sub("First Des\.", ' FIRST DESTINY.', data)
+data = re.sub("Second Des\.", ' SECOND DESTINY.', data)
+data = re.sub("Third Des\.", ' THIRD DESTINY.', data)
+data = re.sub("Phantom of Astarte\.", ' PHANTOM OF ASTARTE.', data)
+data = re.sub("Phan\.", ' PHANTOM OF ASTARTE.', data)
+
+
+
+
+
 
 with open('./files/manfred_extracted.txt', 'w', encoding="utf-8") as file:
     file.write(data)
