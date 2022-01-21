@@ -27,32 +27,25 @@ drama = ET.Element('drama')
 root.append(drama)
 
 countActs = 0
+countScenes = 0
 
 with open (inputFile, 'r', encoding="utf-8") as txt_file:
     for line in txt_file:
         #act match
         a = re.match(r'\s*(ACT\s([I]{1,3})\.)', line)
         if a:
+            countScenes = 0
             countActs += 1
             print("Act caught")
-#            act = ET.SubElement(drama, 'act', attrib = {'n': a.group(2)})
             act = ET.SubElement(drama, 'act', attrib = {'n': str(countActs)})
             act.text = a.group()
 
-        b = re.match(r'\s*(SCENE\s([I]{1,3})\.)', line)
+        b = re.match(r'\s*(SCENE\s([I]{1,3}V?)\.)', line)
         if b:
+            countScenes += 1
             print("Scene caught")
-            scene = ET.SubElement(drama, 'scene', attrib = {'n': b.group(2)})
-#            act = ET.SubElement(drama, 'act', attrib = {'n': str(countActs)})
+            scene = ET.SubElement(drama, 'scene', attrib = {'n': str(countScenes)})
             scene.text = b.group()
-
-        c = re.match(r'\s*(SCENE\s(IV)\.)', line)
-        if c:
-            print("Scene caught")
-            scene = ET.SubElement(drama, 'scene', attrib = {'n': c.group(2)})
-#            act = ET.SubElement(drama, 'act', attrib = {'n': str(countActs)})
-            scene.text = c.group()
-
         else:
             pass
 

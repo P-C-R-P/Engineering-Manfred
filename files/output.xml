@@ -6,17 +6,17 @@
   </header>
   <drama>
     <act n="1">                                  ACT I.</act>
-    <scene n="I">      SCENE I.</scene>
-    <scene n="II">               SCENE II.</scene>
+    <scene n="1">      SCENE I.</scene>
+    <scene n="2">               SCENE II.</scene>
     <act n="2">                                 ACT II.</act>
-    <scene n="I">             SCENE I.</scene>
-    <scene n="II">          SCENE II.</scene>
-    <scene n="III">            SCENE III.</scene>
-    <scene n="IV">    SCENE IV.</scene>
+    <scene n="1">             SCENE I.</scene>
+    <scene n="2">          SCENE II.</scene>
+    <scene n="3">            SCENE III.</scene>
+    <scene n="4">    SCENE IV.</scene>
     <act n="3">                                 ACT III.</act>
-    <scene n="I">             SCENE I.</scene>
-    <scene n="II">                      SCENE II.</scene>
-    <scene n="III">       SCENE III.</scene>
-    <scene n="IV">                   SCENE IV.</scene>
+    <scene n="1">             SCENE I.</scene>
+    <scene n="2">                      SCENE II.</scene>
+    <scene n="3">       SCENE III.</scene>
+    <scene n="4">                   SCENE IV.</scene>
   </drama>
 </document>
