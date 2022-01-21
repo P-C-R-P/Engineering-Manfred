@@ -36,28 +36,39 @@ with open (inputFile, 'r', encoding="utf-8") as txt_file:
         if a:
             countScenes = 0
             countActs += 1
-            print("Act caught")
+            #print("Act caught")
             act = ET.SubElement(drama, 'act', attrib = {'n': str(countActs)})
             act.text = a.group()
 
         b = re.match(r'\s*(SCENE\s([I]{1,3}V?)\.)', line)
         if b:
             countScenes += 1
-            print("Scene caught")
+            #print("Scene caught")
             scene = ET.SubElement(act, 'scene', attrib = {'n': str(countScenes)})
             scene.text = b.group()
 
         c = re.match(r'\s* ([A-Z]*)\.', line)
         if c:
-            print("Character caught")
-            character = ET.SubElement(scene, 'character', attrib = {'name': c.group(1)})
-            character.text = c.group()
+            #print("Character caught")
+            speaker = ET.SubElement(scene, 'speaker', attrib = {'name': c.group(1)})
+            speaker.text = c.group()
 
         d = re.match(r'\s* ([A-Z]* [A-Z]*)\.', line)
         if d:
-            print("Two-part character caught")
-            character = ET.SubElement(scene, 'character', attrib = {'name': d.group(1)})
-            character.text = d.group()
+            #print("Two-part character caught")
+            speaker = ET.SubElement(scene, 'speaker', attrib = {'name': d.group(1)})
+            speaker.text = d.group()
+        e = re.match(r'\s*(\[[a-zA-Z \.\s,-]*\])', line)
+        if e:
+            print("Stage direction caught")
+            stage = ET.SubElement(scene, 'stage')
+            stage.text = e.group()
+            
+        f = re.match(r'(.+)', line)
+        if f and not a and not b and not c and not d and not e:
+            print("Speech" + f.group())
+            speech = ET.SubElement(scene, 'speech')
+            speech.text = line
         else:
             pass
 

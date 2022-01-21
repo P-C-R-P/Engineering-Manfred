@@ -1,51 +1,3 @@
-DRAMATIS PERSONÆ.
-
-
-
-
-
-                                Manfred.
-
-                                Chamois Hunter.
-
-                                Abbot of St. Maurice.
-
-                                Manuel.
-
-                                Herman.
-
-
-
-                                Witch of the Alps.
-
-                                Arimanes.
-
-                                Nemesis.
-
-                                The Destinies.
-
-                                Spirits, etc.
-
-
-
-    The Scene of the Drama is amongst the Higher Alps--partly in the
-
-             Castle of Manfred, and partly in the Mountains.
-
-
-
-
-
-
-
-
-
-                              MANFRED.
-
-
-
-
-
                                   ACT I.
 
 
@@ -56,7 +8,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. The lamp must be replenished, but even then
+     MANFRED.
+ The lamp must be replenished, but even then
 
     It will not burn so long as I must watch:
 
@@ -172,6 +125,7 @@ DRAMATIS PERSONÆ.
 
 
 
+
       Mortal! to thy bidding bowed,                                     50
 
       From my mansion in the cloud,
@@ -195,6 +149,7 @@ DRAMATIS PERSONÆ.
 
 
                        SECOND SPIRIT.
+
 
 
 
@@ -233,6 +188,7 @@ DRAMATIS PERSONÆ.
 
 
                         THIRD SPIRIT.
+
 
 
 
@@ -388,21 +344,25 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Forgetfulness----
+     MANFRED.
+ Forgetfulness----
 
 
 
-     FIRST SPIRIT.            Of what--of whom--and why?
+     FIRST SPIRIT.
+            Of what--of whom--and why?
 
 
 
-     MANFRED. Of that which is within me; read it there--
+     MANFRED.
+ Of that which is within me; read it there--
 
     Ye know it--and I cannot utter it.
 
 
 
-     SPIRIT. We can but give thee that which we possess:
+     SPIRIT.
+ We can but give thee that which we possess:
 
     Ask of us subjects, sovereignty, the power                         140
 
@@ -416,7 +376,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.                Oblivion--self-oblivion!
+     MANFRED.
+                Oblivion--self-oblivion!
 
     Can ye not wring from out the hidden realms
 
@@ -424,17 +385,20 @@ DRAMATIS PERSONÆ.
 
 
 
-     SPIRIT. It is not in our essence, in our skill;
+     SPIRIT.
+ It is not in our essence, in our skill;
 
     But--thou may'st die.
 
 
 
-     MANFRED.                Will Death bestow it on me?
+     MANFRED.
+                Will Death bestow it on me?
 
 
 
-     SPIRIT. We are immortal, and do not forget;
+     SPIRIT.
+ We are immortal, and do not forget;
 
     We are eternal; and to us the past                                 150
 
@@ -442,7 +406,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Ye mock me--but the Power which brought ye here
+     MANFRED.
+ Ye mock me--but the Power which brought ye here
 
     Hath made you mine. Slaves, scoff not at my will!
 
@@ -458,17 +423,20 @@ DRAMATIS PERSONÆ.
 
 
 
-     SPIRIT. We answer--as we answered; our reply
+     SPIRIT.
+ We answer--as we answered; our reply
 
     Is even in thine own words.
 
 
 
-     MANFRED.                      Why say ye so?                         160
+     MANFRED.
+                      Why say ye so?                         160
 
 
 
-     SPIRIT. If, as thou say'st, thine essence be as ours,
+     SPIRIT.
+ If, as thou say'st, thine essence be as ours,
 
     We have replied in telling thee, the thing
 
@@ -476,13 +444,15 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. I then have called ye from your realms in vain;
+     MANFRED.
+ I then have called ye from your realms in vain;
 
     Ye cannot, or ye will not, aid me.
 
 
 
-     SPIRIT.                         Say--
+     SPIRIT.
+                         Say--
 
     What we possess we offer; it is thine:
 
@@ -492,13 +462,15 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Accurséd! what have I to do with days?
+     MANFRED.
+ Accurséd! what have I to do with days?
 
     They are too long already.--Hence--begone!                         170
 
 
 
-     SPIRIT. Yet pause: being here, our will would do thee service;
+     SPIRIT.
+ Yet pause: being here, our will would do thee service;
 
     Bethink thee, is there then no other gift
 
@@ -506,7 +478,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. No, none: yet stay--one moment, ere we part,
+     MANFRED.
+ No, none: yet stay--one moment, ere we part,
 
     I would behold ye face to face. I hear
 
@@ -522,7 +495,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     SPIRIT. We have no forms, beyond the elements
+     SPIRIT.
+ We have no forms, beyond the elements
 
     Of which we are the mind and principle:
 
@@ -530,7 +504,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. I have no choice; there is no form on earth
+     MANFRED.
+ I have no choice; there is no form on earth
 
     Hideous or beautiful to me. Let him,
 
@@ -546,7 +521,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.        Oh God! if it be thus, and thou
+     MANFRED.
+        Oh God! if it be thus, and thou
 
     Art not a madness and a mockery,
 
@@ -726,7 +702,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. The spirits I have raised abandon me,
+     MANFRED.
+ The spirits I have raised abandon me,
 
     The spells which I have studied baffle me,
 
@@ -822,7 +799,7 @@ DRAMATIS PERSONÆ.
 
     And trust not to each other. Hark! the note,
 
-                          [The Shepherd's pipe in the distance is heard.
+                          [The Shepherd's pipe in the distance is heard.]
 
     The natural music of the mountain reed--
 
@@ -844,11 +821,12 @@ DRAMATIS PERSONÆ.
 
 
 
-                   Enter from below a CHAMOIS HUNTER.
+                   [Enter from below a CHAMOIS HUNTER.]
 
 
 
-     CHAMOIS HUNTER.                Even so
+     CHAMOIS HUNTER.
+                Even so
 
     This way the Chamois leapt: her nimble feet
 
@@ -870,7 +848,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. (not perceiving the other). To be thus--
+     MANFRED.
+ (not perceiving the other). To be thus--
 
     Grey-haired with anguish, like these blasted pines,
 
@@ -906,7 +885,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER. The mists begin to rise from up the valley;
+     CHAMOIS HUNTER.
+ The mists begin to rise from up the valley;
 
     I'll warn him to descend, or he may chance
 
@@ -914,7 +894,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. The mists boil up around the glaciers; clouds
+     MANFRED.
+ The mists boil up around the glaciers; clouds
 
     Rise curling fast beneath me, white and sulphury,
 
@@ -926,7 +907,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER. I must approach him cautiously; if near,                  90
+     CHAMOIS HUNTER.
+ I must approach him cautiously; if near,                  90
 
     A sudden step will startle him, and he
 
@@ -934,7 +916,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.                  Mountains have fallen,
+     MANFRED.
+                  Mountains have fallen,
 
     Leaving a gap in the clouds, and with the shock
 
@@ -954,7 +937,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER.                  Friend! have a care,                    100
+     CHAMOIS HUNTER.
+                  Friend! have a care,                    100
 
     Your next step may be fatal!--for the love
 
@@ -962,7 +946,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. (not hearing him).
+     MANFRED.
+ (not hearing him).
 
     Such would have been for me a fitting tomb;
 
@@ -982,11 +967,12 @@ DRAMATIS PERSONÆ.
 
          [As MANFRED is in act to spring from the cliff, the
 
-      CHAMOIS HUNTER seizes and retains him with a sudden grasp.
+      CHAMOIS HUNTER seizes and retains him with a sudden grasp.]
 
 
 
-     CHAMOIS HUNTER. Hold, madman!--though aweary of thy life,                110
+     CHAMOIS HUNTER.
+ Hold, madman!--though aweary of thy life,                110
 
     Stain not our pure vales with thy guilty blood:
 
@@ -994,7 +980,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. I am most sick at heart--nay, grasp me not--
+     MANFRED.
+ I am most sick at heart--nay, grasp me not--
 
     I am all feebleness--the mountains whirl
 
@@ -1002,7 +989,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER. I'll answer that anon.--Away with me----
+     CHAMOIS HUNTER.
+ I'll answer that anon.--Away with me----
 
     The clouds grow thicker----there--now lean on me--
 
@@ -1024,7 +1012,7 @@ DRAMATIS PERSONÆ.
 
 
 
-           [As they descend the rocks with difficulty, the scene closes.
+           [As they descend the rocks with difficulty, the scene closes.]
 
 
 
@@ -1046,7 +1034,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER. No--no--yet pause--thou must not yet go forth;
+     CHAMOIS HUNTER.
+ No--no--yet pause--thou must not yet go forth;
 
     Thy mind and body are alike unfit
 
@@ -1058,13 +1047,15 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.       It imports not: I do know
+     MANFRED.
+       It imports not: I do know
 
     My route full well, and need no further guidance.
 
 
 
-     CHAMOIS HUNTER. Thy garb and gait bespeak thee of high lineage--
+     CHAMOIS HUNTER.
+ Thy garb and gait bespeak thee of high lineage--
 
     One of the many chiefs, whose castled crags
 
@@ -1084,11 +1075,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. No matter.
+     MANFRED.
+ No matter.
 
 
 
-     CHAMOIS HUNTER.         Well, Sir, pardon me the question,
+     CHAMOIS HUNTER.
+         Well, Sir, pardon me the question,
 
     And be of better cheer. Come, taste my wine;
 
@@ -1100,17 +1093,20 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Away, away! there's blood upon the brim!
+     MANFRED.
+ Away, away! there's blood upon the brim!
 
     Will it then never--never sink in the earth?
 
 
 
-     CHAMOIS HUNTER. What dost thou mean? thy senses wander from thee.
+     CHAMOIS HUNTER.
+ What dost thou mean? thy senses wander from thee.
 
 
 
-     MANFRED. I say 'tis blood--my blood! the pure warm stream
+     MANFRED.
+ I say 'tis blood--my blood! the pure warm stream
 
     Which ran in the veins of my fathers, and in ours
 
@@ -1126,7 +1122,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER. Man of strange words, and some half-maddening sin,
+     CHAMOIS HUNTER.
+ Man of strange words, and some half-maddening sin,
 
     Which makes thee people vacancy, whate'er
 
@@ -1136,7 +1133,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Patience--and patience! Hence--that word was made
+     MANFRED.
+ Patience--and patience! Hence--that word was made
 
     For brutes of burthen, not for birds of prey!
 
@@ -1146,7 +1144,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER.                Thanks to Heaven!
+     CHAMOIS HUNTER.
+                Thanks to Heaven!
 
     I would not be of thine for the free fame
 
@@ -1156,15 +1155,18 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Do I not bear it?--Look on me--I live.
+     MANFRED.
+ Do I not bear it?--Look on me--I live.
 
 
 
-     CHAMOIS HUNTER. This is convulsion, and no healthful life.
+     CHAMOIS HUNTER.
+ This is convulsion, and no healthful life.
 
 
 
-     MANFRED. I tell thee, man! I have lived many years,
+     MANFRED.
+ I tell thee, man! I have lived many years,
 
     Many long years, but they are nothing now
 
@@ -1176,13 +1178,15 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER. Why on thy brow the seal of middle age
+     CHAMOIS HUNTER.
+ Why on thy brow the seal of middle age
 
     Hath scarce been set; I am thine elder far.                         50
 
 
 
-     MANFRED. Think'st thou existence doth depend on time?
+     MANFRED.
+ Think'st thou existence doth depend on time?
 
     It doth; but actions are our epochs: mine
 
@@ -1200,23 +1204,27 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER. Alas! he's mad--but yet I must not leave him.
+     CHAMOIS HUNTER.
+ Alas! he's mad--but yet I must not leave him.
 
 
 
-     MANFRED. I would I were--for then the things I see                    60
+     MANFRED.
+ I would I were--for then the things I see                    60
 
     Would be but a distempered dream.
 
 
 
-     CHAMOIS HUNTER.                         What is it
+     CHAMOIS HUNTER.
+                         What is it
 
     That thou dost see, or think thou look'st upon?
 
 
 
-     MANFRED. Myself, and thee--a peasant of the Alps--
+     MANFRED.
+ Myself, and thee--a peasant of the Alps--
 
     Thy humble virtues, hospitable home,
 
@@ -1240,11 +1248,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER. And would'st thou then exchange thy lot for mine?
+     CHAMOIS HUNTER.
+ And would'st thou then exchange thy lot for mine?
 
 
 
-     MANFRED. No, friend! I would not wrong thee, nor exchange
+     MANFRED.
+ No, friend! I would not wrong thee, nor exchange
 
     My lot with living being: I can bear--
 
@@ -1256,7 +1266,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER.                    And with this--
+     CHAMOIS HUNTER.
+                    And with this--
 
     This cautious feeling for another's pain,                           80
 
@@ -1268,7 +1279,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.             Oh! no, no, no!
+     MANFRED.
+             Oh! no, no, no!
 
     My injuries came down on those who loved me--
 
@@ -1280,7 +1292,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER.                Heaven give thee rest!
+     CHAMOIS HUNTER.
+                Heaven give thee rest!
 
     And Penitence restore thee to thyself;
 
@@ -1288,7 +1301,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.                        I need them not,
+     MANFRED.
+                        I need them not,
 
     But can endure thy pity. I depart--                                 90
 
@@ -1310,7 +1324,7 @@ DRAMATIS PERSONÆ.
 
 
 
-                             Enter MANFRED.
+                             [Enter MANFRED.]
 
 
 
@@ -1342,11 +1356,11 @@ DRAMATIS PERSONÆ.
 
                  [MANFRED takes some of the water into the palm of his
 
-                 hand and flings it into the air, muttering the ajuration.
+                 hand and flings it into the air, muttering the ajuration.]
 
-                 After a pause, the WITCH OF THE ALPS rises beneath
+                 [After a pause, the WITCH OF THE ALPS rises beneath
 
-                 the arch of the sunbow of the torrent.
+                 the arch of the sunbow of the torrent.]
 
 
 
@@ -1392,7 +1406,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     WITCH.                   Son of Earth!
+     WITCH.
+                   Son of Earth!
 
     I know thee, and the Powers which give thee power!
 
@@ -1406,7 +1421,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. To look upon thy beauty--nothing further.
+     MANFRED.
+ To look upon thy beauty--nothing further.
 
     The face of the earth hath maddened me, and I
 
@@ -1422,7 +1438,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     WITCH.             What could be the quest
+     WITCH.
+             What could be the quest
 
     Which is not in the power of the most powerful,
 
@@ -1430,17 +1447,20 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.                       A boon;--
+     MANFRED.
+                       A boon;--
 
     But why should I repeat it? 'twere in vain.
 
 
 
-     WITCH. I know not that; let thy lips utter it.
+     WITCH.
+ I know not that; let thy lips utter it.
 
 
 
-     MANFRED. Well, though it torture me, 'tis but the same;
+     MANFRED.
+ Well, though it torture me, 'tis but the same;
 
     My pang shall find a voice. From my youth upwards                   50
 
@@ -1538,11 +1558,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     WITCH. Proceed.
+     WITCH.
+ Proceed.
 
 
 
-     MANFRED.            Oh! I but thus prolonged my words,
+     MANFRED.
+            Oh! I but thus prolonged my words,
 
     Boasting these idle attributes, because
 
@@ -1560,11 +1582,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     WITCH.                Spare not thyself--proceed.
+     WITCH.
+                Spare not thyself--proceed.
 
 
 
-     MANFRED. She was like me in lineaments--her eyes--
+     MANFRED.
+ She was like me in lineaments--her eyes--
 
     Her hair--her features--all, to the very tone
 
@@ -1592,11 +1616,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     WITCH.                          With thy hand?
+     WITCH.
+                          With thy hand?
 
 
 
-     MANFRED. Not with my hand, but heart, which broke her heart;
+     MANFRED.
+ Not with my hand, but heart, which broke her heart;
 
     It gazed on mine, and withered. I have shed
 
@@ -1606,7 +1632,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     WITCH.                         And for this--
+     WITCH.
+                         And for this--
 
     A being of the race thou dost despise--
 
@@ -1620,7 +1647,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Daughter of Air! I tell thee, since that hour--
+     MANFRED.
+ Daughter of Air! I tell thee, since that hour--
 
     But words are breath--look on me in my sleep,
 
@@ -1670,13 +1698,15 @@ DRAMATIS PERSONÆ.
 
 
 
-     WITCH.                     It may be                            150
+     WITCH.
+                     It may be                            150
 
     That I can aid thee.
 
 
 
-     MANFRED.               To do this thy power
+     MANFRED.
+               To do this thy power
 
     Must wake the dead, or lay me low with them.
 
@@ -1686,7 +1716,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     WITCH. That is not in my province; but if thou
+     WITCH.
+ That is not in my province; but if thou
 
     Wilt swear obedience to my will, and do
 
@@ -1694,7 +1725,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. I will not swear--Obey! and whom? the Spirits
+     MANFRED.
+ I will not swear--Obey! and whom? the Spirits
 
     Whose presence I command, and be the slave
 
@@ -1702,7 +1734,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     WITCH.                       Is this all?                        160
+     WITCH.
+                       Is this all?                        160
 
     Hast thou no gentler answer?--Yet bethink thee,
 
@@ -1710,15 +1743,18 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.                       I have said it.
+     MANFRED.
+                       I have said it.
 
 
 
-     WITCH. Enough! I may retire then--say!
+     WITCH.
+ Enough! I may retire then--say!
 
 
 
-     MANFRED.                                       Retire!
+     MANFRED.
+                                       Retire!
 
 
 
@@ -1726,7 +1762,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. (alone). We are the fools of Time and Terror: Days
+     MANFRED.
+ (alone). We are the fools of Time and Terror: Days
 
     Steal on us, and steal from us; yet we live,
 
@@ -1818,7 +1855,7 @@ DRAMATIS PERSONÆ.
 
 
 
-                          Enter FIRST DESTINY.
+                          [Enter FIRST DESTINY.]
 
 
 
@@ -1950,7 +1987,7 @@ DRAMATIS PERSONÆ.
 
 
 
-                Enter the SECOND and THIRD DESTINIES.
+                [Enter the SECOND and THIRD DESTINIES.]
 
 
 
@@ -1968,31 +2005,36 @@ DRAMATIS PERSONÆ.
 
 
 
-     FIRST DESTINY. Welcome!--Where's Nemesis?
+     FIRST DESTINY.
+ Welcome!--Where's Nemesis?
 
 
 
-     SECOND DESTINY.                          At some great work;
+     SECOND DESTINY.
+                          At some great work;
 
     But what I know not, for my hands were full.
 
 
 
-     THIRD DESTINY. Behold she cometh.
+     THIRD DESTINY.
+ Behold she cometh.
 
 
 
-                             Enter NEMESIS.
+                             [Enter NEMESIS.]
 
 
 
-     FIRST DESTINY.                     Say, where hast thou been?         60
+     FIRST DESTINY.
+                     Say, where hast thou been?         60
 
     My Sisters and thyself are slow to-night.
 
 
 
-     NEMESIS. I was detained repairing shattered thrones--
+     NEMESIS.
+ I was detained repairing shattered thrones--
 
     Marrying fools, restoring dynasties--
 
@@ -2064,11 +2106,12 @@ DRAMATIS PERSONÆ.
 
 
 
-                   Enter the DESTINIES and NEMESIS.
+                   [Enter the DESTINIES and NEMESIS.]
 
 
 
-     FIRST DESTINY. Glory to Arimanes! on the earth
+     FIRST DESTINY.
+ Glory to Arimanes! on the earth
 
     His power increaseth--both my sisters did
 
@@ -2076,19 +2119,22 @@ DRAMATIS PERSONÆ.
 
 
 
-     SECOND DESTINY. Glory to Arimanes! we who bow                         20
+     SECOND DESTINY.
+ Glory to Arimanes! we who bow                         20
 
     The necks of men, bow down before his throne!
 
 
 
-     THIRD DESTINY. Glory to Arimanes! we await
+     THIRD DESTINY.
+ Glory to Arimanes! we await
 
     His nod!
 
 
 
-     NEMESIS.    Sovereign of Sovereigns! we are thine,
+     NEMESIS.
+    Sovereign of Sovereigns! we are thine,
 
     And all that liveth, more or less, is ours,
 
@@ -2102,11 +2148,12 @@ DRAMATIS PERSONÆ.
 
 
 
-                             Enter MANFRED.
+                             [Enter MANFRED.]
 
 
 
-    A  SPIRIT.                         What is here?
+    A  SPIRIT.
+                         What is here?
 
     A mortal!--Thou most rash and fatal wretch,
 
@@ -2114,13 +2161,15 @@ DRAMATIS PERSONÆ.
 
 
 
-     SECOND SPIRIT.              I do know the man--                   30
+     SECOND SPIRIT.
+              I do know the man--                   30
 
     A Magian of great power, and fearful skill!
 
 
 
-     THIRD SPIRIT. Bow down and worship, slave!--What, know'st thou not
+     THIRD SPIRIT.
+ Bow down and worship, slave!--What, know'st thou not
 
     Thine and our Sovereign?--Tremble, and obey!
 
@@ -2132,17 +2181,20 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.                                   I know it;
+     MANFRED.
+                                   I know it;
 
     And yet ye see I kneel not.
 
 
 
-     FOURTH SPIRIT.             'Twill be taught thee.
+     FOURTH SPIRIT.
+             'Twill be taught thee.
 
 
 
-     MANFRED. 'Tis taught already;--many a night on the earth,
+     MANFRED.
+ 'Tis taught already;--many a night on the earth,
 
     On the bare ground, have I bowed down my face,
 
@@ -2156,7 +2208,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     FIFTH SPIRIT.         Dost thou dare
+     FIFTH SPIRIT.
+         Dost thou dare
 
     Refuse to Arimanes on his throne
 
@@ -2166,7 +2219,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Bid him bow down to that which is above him,
+     MANFRED.
+ Bid him bow down to that which is above him,
 
     The overruling Infinite--the Maker
 
@@ -2182,7 +2236,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     FIRST DESTINY.            Hence! Avaunt!--he's mine.                  50
+     FIRST DESTINY.
+            Hence! Avaunt!--he's mine.                  50
 
     Prince of the Powers invisible! This man
 
@@ -2230,15 +2285,18 @@ DRAMATIS PERSONÆ.
 
 
 
-     NEMESIS. What doth he here then?
+     NEMESIS.
+ What doth he here then?
 
 
 
-     FIRST DESTINY.                   Let him answer that.
+     FIRST DESTINY.
+                   Let him answer that.
 
 
 
-     MANFRED. Ye know what I have known; and without power
+     MANFRED.
+ Ye know what I have known; and without power
 
     I could not be amongst ye: but there are
 
@@ -2248,33 +2306,39 @@ DRAMATIS PERSONÆ.
 
 
 
-     NEMESIS. What would'st thou?
+     NEMESIS.
+ What would'st thou?
 
 
 
-     MANFRED.                     Thou canst not reply to me.
+     MANFRED.
+                     Thou canst not reply to me.
 
     Call up the dead--my question is for them.
 
 
 
-     NEMESIS. Great Arimanes, doth thy will avouch                         80
+     NEMESIS.
+ Great Arimanes, doth thy will avouch                         80
 
     The wishes of this mortal?
 
 
 
-     ARIMANES.                       Yea.
+     ARIMANES.
+                       Yea.
 
 
 
-     NEMESIS.                            Whom wouldst thou
+     NEMESIS.
+                            Whom wouldst thou
 
     Uncharnel?
 
 
 
-     MANFRED.      One without a tomb--call up
+     MANFRED.
+      One without a tomb--call up
 
     Astarte.
 
@@ -2320,7 +2384,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Can this be death? there's bloom upon her cheek;
+     MANFRED.
+ Can this be death? there's bloom upon her cheek;
 
     But now I see it is no living hue,
 
@@ -2352,23 +2417,27 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.                      She is silent,
+     MANFRED.
+                      She is silent,
 
     And in that silence I am more than answered.                       110
 
 
 
-     NEMESIS. My power extends no further. Prince of Air!
+     NEMESIS.
+ My power extends no further. Prince of Air!
 
     It rests with thee alone--command her voice.
 
 
 
-     ARIMANES. Spirit--obey this sceptre!
+     ARIMANES.
+ Spirit--obey this sceptre!
 
 
 
-     NEMESIS.                            Silent still!
+     NEMESIS.
+                            Silent still!
 
     She is not of our order, but belongs
 
@@ -2378,7 +2447,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.                  Hear me, hear me--
+     MANFRED.
+                  Hear me, hear me--
 
     Astarte! my belovéd! speak to me:
 
@@ -2448,43 +2518,52 @@ DRAMATIS PERSONÆ.
 
 
 
-     PHANTOM OF ASTARTE.   Manfred!
+     PHANTOM OF ASTARTE.
+   Manfred!
 
 
 
-     MANFRED.                           Say on, say on--
+     MANFRED.
+                           Say on, say on--
 
     I live but in the sound--it is thy voice!                          150
 
 
 
-     PHANTOM OF ASTARTE. Manfred! To-morrow ends thine earthly ills.
+     PHANTOM OF ASTARTE.
+ Manfred! To-morrow ends thine earthly ills.
 
     Farewell!
 
 
 
-     MANFRED.    Yet one word more--am I forgiven?
+     MANFRED.
+    Yet one word more--am I forgiven?
 
 
 
-     PHANTOM OF ASTARTE. Farewell!
+     PHANTOM OF ASTARTE.
+ Farewell!
 
 
 
-     MANFRED.            Say, shall we meet again?
+     MANFRED.
+            Say, shall we meet again?
 
 
 
-     PHANTOM OF ASTARTE.                                    Farewell!
+     PHANTOM OF ASTARTE.
+                                    Farewell!
 
 
 
-     MANFRED. One word for mercy! Say thou lovest me.
+     MANFRED.
+ One word for mercy! Say thou lovest me.
 
 
 
-     PHANTOM OF ASTARTE. Manfred!
+     PHANTOM OF ASTARTE.
+ Manfred!
 
 
 
@@ -2492,19 +2571,22 @@ DRAMATIS PERSONÆ.
 
 
 
-     NEMESIS.           She's gone, and will not be recalled:
+     NEMESIS.
+           She's gone, and will not be recalled:
 
     Her words will be fulfilled. Return to the earth.
 
 
 
-    A  SPIRIT. He is convulsed--This is to be a mortal,
+    A  SPIRIT.
+ He is convulsed--This is to be a mortal,
 
     And seek the things beyond mortality.
 
 
 
-    Another  SPIRIT. Yet, see, he mastereth himself, and makes
+    Another  SPIRIT.
+ Yet, see, he mastereth himself, and makes
 
     His torture tributary to his will.                            160
 
@@ -2514,21 +2596,26 @@ DRAMATIS PERSONÆ.
 
 
 
-     NEMESIS.           Hast thou further question
+
+     NEMESIS.
+           Hast thou further question
 
     Of our great Sovereign, or his worshippers?
 
 
 
-     MANFRED. None.
+     MANFRED.
+ None.
 
 
 
-     NEMESIS.       Then for a time farewell.
+     NEMESIS.
+       Then for a time farewell.
 
 
 
-     MANFRED. We meet then! Where? On the earth?--
+     MANFRED.
+ We meet then! Where? On the earth?--
 
     Even as thou wilt: and for the grace accorded
 
@@ -2560,17 +2647,20 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. What is the hour?
+     MANFRED.
+ What is the hour?
 
 
 
-     HERMAN.                   It wants but one till sunset,
+     HERMAN.
+                   It wants but one till sunset,
 
     And promises a lovely twilight.
 
 
 
-     MANFRED.                          Say,
+     MANFRED.
+                          Say,
 
     Are all things so disposed of in the tower
 
@@ -2578,19 +2668,22 @@ DRAMATIS PERSONÆ.
 
 
 
-     HERMAN.        All, my Lord, are ready:
+     HERMAN.
+        All, my Lord, are ready:
 
     Here is the key and casket.
 
 
 
-     MANFRED.                        It is well:
+     MANFRED.
+                        It is well:
 
     Thou mayst retire.                                     [Exit HERMAN.]
 
 
 
-     MANFRED. (alone).     There is a calm upon me--
+     MANFRED.
+ (alone).     There is a calm upon me--
 
     Inexplicable stillness! which till now
 
@@ -2618,25 +2711,28 @@ DRAMATIS PERSONÆ.
 
 
 
-                            Re-enter HERMAN.
+                            [Re-enter HERMAN.]
 
 
 
-     HERMAN. My Lord, the Abbot of St. Maurice craves
+     HERMAN.
+ My Lord, the Abbot of St. Maurice craves
 
     To greet your presence.
 
 
 
-                    Enter the ABBOT OF ST. MAURICE.
+                    [Enter the ABBOT OF ST. MAURICE.]
 
 
 
-     ABBOT.                 Peace be with Count Manfred!              20
+     ABBOT.
+                 Peace be with Count Manfred!              20
 
 
 
-     MANFRED. Thanks, holy father! welcome to these walls;
+     MANFRED.
+ Thanks, holy father! welcome to these walls;
 
     Thy presence honours them, and blesseth those
 
@@ -2644,17 +2740,20 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT.              Would it were so, Count!--
+     ABBOT.
+              Would it were so, Count!--
 
     But I would fain confer with thee alone.
 
 
 
-     MANFRED. Herman, retire.--What would my reverend guest?
+     MANFRED.
+ Herman, retire.--What would my reverend guest?
 
 
 
-     ABBOT. Thus, without prelude:--Age and zeal--my office--
+     ABBOT.
+ Thus, without prelude:--Age and zeal--my office--
 
     And good intent must plead my privilege;
 
@@ -2672,11 +2771,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.                  Proceed,--I listen.
+     MANFRED.
+                  Proceed,--I listen.
 
 
 
-     ABBOT. 'Tis said thou holdest converse with the things
+     ABBOT.
+ 'Tis said thou holdest converse with the things
 
     Which are forbidden to the search of man;
 
@@ -2696,11 +2797,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. And what are they who do avouch these things?
+     MANFRED.
+ And what are they who do avouch these things?
 
 
 
-     ABBOT. My pious brethren--the scaréd peasantry--
+     ABBOT.
+ My pious brethren--the scaréd peasantry--
 
     Even thy own vassals--who do look on thee
 
@@ -2708,11 +2811,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Take it.
+     MANFRED.
+ Take it.
 
 
 
-     ABBOT.        I come to save, and not destroy:
+     ABBOT.
+        I come to save, and not destroy:
 
     I would not pry into thy secret soul;
 
@@ -2724,7 +2829,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. I hear thee. This is my reply--whate'er
+     MANFRED.
+ I hear thee. This is my reply--whate'er
 
     I may have been, or am, doth rest between
 
@@ -2736,7 +2842,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT. My son! I did not speak of punishment,
+     ABBOT.
+ My son! I did not speak of punishment,
 
     But penitence and pardon;--with thyself
 
@@ -2756,7 +2863,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Old man! there is no power in holy men,
+     MANFRED.
+ Old man! there is no power in holy men,
 
     Nor charm in prayer, nor purifying form
 
@@ -2784,7 +2892,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT.                 All this is well;
+     ABBOT.
+                 All this is well;
 
     For this will pass away, and be succeeded
 
@@ -2806,7 +2915,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. When Rome's sixth Emperor was near his last,
+     MANFRED.
+ When Rome's sixth Emperor was near his last,
 
     The victim of a self-inflicted wound,
 
@@ -2826,17 +2936,20 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT. And what of this?
+     ABBOT.
+ And what of this?
 
 
 
-     MANFRED.                     I answer with the Roman--
+     MANFRED.
+                     I answer with the Roman--
 
     "It is too late!"
 
 
 
-     ABBOT.           It never can be so,
+     ABBOT.
+           It never can be so,
 
     To reconcile thyself with thy own soul,
 
@@ -2850,7 +2963,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Aye--father! I have had those early visions,
+     MANFRED.
+ Aye--father! I have had those early visions,
 
     And noble aspirations in my youth,
 
@@ -2876,11 +2990,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT.                         And wherefore so?
+     ABBOT.
+                         And wherefore so?
 
 
 
-     MANFRED.I could not tame my nature down; for he
+     MANFRED.
+I could not tame my nature down; for he
 
     Must serve who fain would sway; and soothe, and sue,
 
@@ -2898,11 +3014,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT. And why not live and act with other men?
+     ABBOT.
+ And why not live and act with other men?
 
 
 
-     MANFRED. Because my nature was averse from life;
+     MANFRED.
+ Because my nature was averse from life;
 
     And yet not cruel; for I would not make,
 
@@ -2926,7 +3044,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT.                             Alas!
+     ABBOT.
+                             Alas!
 
     I 'gin to fear that thou art past all aid
 
@@ -2936,7 +3055,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.              Look on me! there is an order
+     MANFRED.
+              Look on me! there is an order
 
     Of mortals on the earth, who do become
 
@@ -2970,11 +3090,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT. Yet, hear me still--
+     ABBOT.
+ Yet, hear me still--
 
 
 
-     MANFRED.                        Old man! I do respect
+     MANFRED.
+                        Old man! I do respect
 
     Thine order, and revere thine years; I deem
 
@@ -2990,7 +3112,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT. This should have been a noble creature: he                160
+     ABBOT.
+ This should have been a noble creature: he                160
 
     Hath all the energy which would have made
 
@@ -3028,13 +3151,15 @@ DRAMATIS PERSONÆ.
 
 
 
-     HERMAN. My lord, you bade me wait on you at sunset:
+     HERMAN.
+ My lord, you bade me wait on you at sunset:
 
     He sinks behind the mountain.
 
 
 
-     MANFRED.                        Doth he so?
+     MANFRED.
+                        Doth he so?
 
     I will look on him.
 
@@ -3110,7 +3235,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     HERMAN. 'Tis strange enough! night after night, for years,
+     HERMAN.
+ 'Tis strange enough! night after night, for years,
 
     He hath pursued long vigils in this tower,
 
@@ -3132,13 +3258,15 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANUEL.                 'Twere dangerous;                        10
+     MANUEL.
+                 'Twere dangerous;                        10
 
     Content thyself with what thou know'st already.
 
 
 
-     HERMAN. Ah! Manuel! thou art elderly and wise,
+     HERMAN.
+ Ah! Manuel! thou art elderly and wise,
 
     And couldst say much; thou hast dwelt within the castle--
 
@@ -3146,19 +3274,22 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANUEL.           Ere Count Manfred's birth,
+     MANUEL.
+           Ere Count Manfred's birth,
 
     I served his father, whom he nought resembles.
 
 
 
-     HERMAN. There be more sons in like predicament!
+     HERMAN.
+ There be more sons in like predicament!
 
     But wherein do they differ?
 
 
 
-     MANUEL.                  I speak not
+     MANUEL.
+                  I speak not
 
     Of features or of form, but mind and habits;
 
@@ -3178,7 +3309,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     HERMAN.                       Beshrew the hour,
+     HERMAN.
+                       Beshrew the hour,
 
     But those were jocund times! I would that such
 
@@ -3188,7 +3320,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANUEL.                     These walls
+     MANUEL.
+                     These walls
 
     Must change their chieftain first. Oh! I have seen
 
@@ -3196,7 +3329,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     HERMAN.                               Come, be friendly;             30
+     HERMAN.
+                               Come, be friendly;             30
 
     Relate me some to while away our watch:
 
@@ -3206,7 +3340,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANUEL.That was a night indeed! I do remember
+     MANUEL.
+That was a night indeed! I do remember
 
     'Twas twilight, as it may be now, and such
 
@@ -3238,23 +3373,27 @@ DRAMATIS PERSONÆ.
 
 
 
-                            Enter the ABBOT.
+                            [Enter the ABBOT.]
 
 
 
-     ABBOT. Where is your master?
+     ABBOT.
+ Where is your master?
 
 
 
-     HERMAN.                          Yonder in the tower.
+     HERMAN.
+                          Yonder in the tower.
 
 
 
-     ABBOT. I must speak with him.
+     ABBOT.
+ I must speak with him.
 
 
 
-     MANUEL.                      'Tis impossible;
+     MANUEL.
+                      'Tis impossible;
 
     He is most private, and must not be thus                            50
 
@@ -3262,7 +3401,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT.      Upon myself I take
+     ABBOT.
+      Upon myself I take
 
     The forfeit of my fault, if fault there be--
 
@@ -3270,39 +3410,46 @@ DRAMATIS PERSONÆ.
 
 
 
-     HERMAN.              Thou hast seen him once
+     HERMAN.
+              Thou hast seen him once
 
     his eve already.
 
 
 
-     ABBOT.          Herman! I command thee,
+     ABBOT.
+          Herman! I command thee,
 
     Knock, and apprize the Count of my approach.
 
 
 
-     HERMAN. We dare not.
+     HERMAN.
+ We dare not.
 
 
 
-     ABBOT.            Then it seems I must be herald
+     ABBOT.
+            Then it seems I must be herald
 
     Of my own purpose.
 
 
 
-     MANUEL.         Reverend father, stop--
+     MANUEL.
+         Reverend father, stop--
 
     I pray you pause.
 
 
 
-     ABBOT.          Why so?
+     ABBOT.
+          Why so?
 
 
 
-     MANUEL.                But step this way,
+     MANUEL.
+                But step this way,
 
     And I will tell you further.                                [Exeunt.]
 
@@ -3412,11 +3559,12 @@ DRAMATIS PERSONÆ.
 
 
 
-                            Enter the ABBOT.
+                            [Enter the ABBOT.]
 
 
 
-     ABBOT.                     My good Lord!
+     ABBOT.
+                     My good Lord!
 
     I crave a second grace for this approach;
 
@@ -3436,7 +3584,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.                  Thou know'st me not;
+     MANFRED.
+                  Thou know'st me not;
 
     My days are numbered, and my deeds recorded:
 
@@ -3444,11 +3593,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT. Thou dost not mean to menace me?
+     ABBOT.
+ Thou dost not mean to menace me?
 
 
 
-     MANFRED.                                   Not I!
+     MANFRED.
+                                   Not I!
 
     I simply tell thee peril is at hand,
 
@@ -3456,27 +3607,32 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT.                 What dost thou mean?
+     ABBOT.
+                 What dost thou mean?
 
 
 
-     MANFRED.                                       Look there!
+     MANFRED.
+                                       Look there!
 
     What dost thou see?
 
 
 
-     ABBOT.           Nothing.
+     ABBOT.
+           Nothing.
 
 
 
-     MANFRED.                      Look there, I say,
+     MANFRED.
+                      Look there, I say,
 
     And steadfastly;--now tell me what thou seest?                      60
 
 
 
-     ABBOT. That which should shake me,--but I fear it not:
+     ABBOT.
+ That which should shake me,--but I fear it not:
 
     I see a dusk and awful figure rise,
 
@@ -3490,7 +3646,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. Thou hast no cause--he shall not harm thee--but
+     MANFRED.
+ Thou hast no cause--he shall not harm thee--but
 
     His sight may shock thine old limbs into palsy.
 
@@ -3498,7 +3655,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT.              And I reply--
+     ABBOT.
+              And I reply--
 
     Never--till I have battled with this fiend:--                       70
 
@@ -3506,13 +3664,15 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.             Why--aye--what doth he here?
+     MANFRED.
+             Why--aye--what doth he here?
 
     I did not send for him,--he is unbidden.
 
 
 
-     ABBOT. Alas! lost Mortal! what with guests like these
+     ABBOT.
+ Alas! lost Mortal! what with guests like these
 
     Hast thou to do? I tremble for thy sake:
 
@@ -3528,33 +3688,40 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.        Pronounce--what is thy mission?
+     MANFRED.
+        Pronounce--what is thy mission?
 
 
 
-     SPIRIT.                                     Come!
+     SPIRIT.
+                                     Come!
 
 
 
-     ABBOT. What art thou, unknown being? answer!--speak!              80
+     ABBOT.
+ What art thou, unknown being? answer!--speak!              80
 
 
 
-     SPIRIT. The genius of this mortal.--Come!'tis time.
+     SPIRIT.
+ The genius of this mortal.--Come!'tis time.
 
 
 
-     MANFRED. I am prepared for all things, but deny
+     MANFRED.
+ I am prepared for all things, but deny
 
     The Power which summons me. Who sent thee here?
 
 
 
-     SPIRIT. Thou'lt know anon--Come! come!
+     SPIRIT.
+ Thou'lt know anon--Come! come!
 
 
 
-     MANFRED.                                  I have commanded
+     MANFRED.
+                                  I have commanded
 
     Things of an essence greater far than thine,
 
@@ -3562,11 +3729,13 @@ DRAMATIS PERSONÆ.
 
 
 
-     SPIRIT. Mortal! thine hour is come--Away! I say.
+     SPIRIT.
+ Mortal! thine hour is come--Away! I say.
 
 
 
-     MANFRED. I knew, and know my hour is come, but not
+     MANFRED.
+ I knew, and know my hour is come, but not
 
     To render up my soul to such as thee:
 
@@ -3574,13 +3743,15 @@ DRAMATIS PERSONÆ.
 
 
 
-     SPIRIT. Then I must summon up my brethren.--Rise!
+     SPIRIT.
+ Then I must summon up my brethren.--Rise!
 
                                                     [Other Spirits rise.]
 
 
 
-     ABBOT. Avaunt! ye evil ones!--Avaunt! I say,--
+     ABBOT.
+ Avaunt! ye evil ones!--Avaunt! I say,--
 
     Ye have no power where Piety hath power,
 
@@ -3588,7 +3759,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     SPIRIT.                        Old man!
+     SPIRIT.
+                        Old man!
 
     We know ourselves, our mission, and thine order;
 
@@ -3600,7 +3772,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. I do defy ye,--though I feel my soul
+     MANFRED.
+ I do defy ye,--though I feel my soul
 
     Is ebbing from me, yet I do defy ye;                               100
 
@@ -3614,7 +3787,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     SPIRIT.                    Reluctant mortal!
+     SPIRIT.
+                    Reluctant mortal!
 
     Is this the Magian who would so pervade
 
@@ -3628,7 +3802,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED.                   Thou false fiend, thou liest!
+     MANFRED.
+                   Thou false fiend, thou liest!
 
     My life is in its last hour,--that I know,                       110
 
@@ -3656,13 +3831,15 @@ DRAMATIS PERSONÆ.
 
 
 
-     SPIRIT.                 But thy many crimes
+     SPIRIT.
+                 But thy many crimes
 
     Have made thee--
 
 
 
-     MANFRED.          What are they to such as thee?
+     MANFRED.
+          What are they to such as thee?
 
     Must crimes be punished but by other crimes,
 
@@ -3706,7 +3883,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT. Alas! how pale thou art--thy lips are white--
+     ABBOT.
+ Alas! how pale thou art--thy lips are white--
 
     And thy breast heaves--and in thy gasping throat
 
@@ -3716,7 +3894,8 @@ DRAMATIS PERSONÆ.
 
 
 
-     MANFRED. 'Tis over--my dull eyes can fix thee not;
+     MANFRED.
+ 'Tis over--my dull eyes can fix thee not;
 
     But all things swim around me, and the earth
 
@@ -3726,19 +3905,22 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT.            Cold--cold--even to the heart--
+     ABBOT.
+            Cold--cold--even to the heart--
 
     But yet one prayer--Alas! how fares it with thee?                  150
 
 
 
-     MANFRED. Old man! 'tis not so difficult to die.
+     MANFRED.
+ Old man! 'tis not so difficult to die.
 
                                                        [MANFRED expires.]
 
 
 
-     ABBOT. He's gone--his soul hath ta'en its earthless flight;
+     ABBOT.
+ He's gone--his soul hath ta'en its earthless flight;
 
     Whither? I dread to think--but he is gone.
 

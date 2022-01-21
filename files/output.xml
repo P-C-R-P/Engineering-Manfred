@@ -5,236 +5,3247 @@
     <authors>compiled by Philipa Payne et Fábio Cabral</authors>
   </header>
   <drama>
-    <act n="1">                                  ACT I.<scene n="1">      SCENE I.<character name="FIRST SPIRIT">                               FIRST SPIRIT.</character>
-        <character name="SECOND SPIRIT">                       SECOND SPIRIT.</character>
-        <character name="THIRD SPIRIT">                        THIRD SPIRIT.</character>
-        <character name="FIRST SPIRIT">     FIRST SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="MANFRED">     MANFRED.</character>
+    <act n="1">                                  ACT I.<scene n="1">      SCENE I.<speech>                            Time, Midnight.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> The lamp must be replenished, but even then
+</speech>
+        <speech>    It will not burn so long as I must watch:
+</speech>
+        <speech>    My slumbers--if I slumber--are not sleep,
+</speech>
+        <speech>    But a continuance, of enduring thought,
+</speech>
+        <speech>    Which then I can resist not: in my heart
+</speech>
+        <speech>    There is a vigil, and these eyes but close
+</speech>
+        <speech>    To look within; and yet I live, and bear
+</speech>
+        <speech>    The aspect and the form of breathing men.
+</speech>
+        <speech>    But Grief should be the Instructor of the wise;
+</speech>
+        <speech>    Sorrow is Knowledge: they who know the most                         10
+</speech>
+        <speech>    Must mourn the deepest o'er the fatal truth,
+</speech>
+        <speech>    The Tree of Knowledge is not that of Life.
+</speech>
+        <speech>    Philosophy and science, and the springs
+</speech>
+        <speech>    Of Wonder, and the wisdom of the World,
+</speech>
+        <speech>    I have essayed, and in my mind there is
+</speech>
+        <speech>    A power to make these subject to itself--
+</speech>
+        <speech>    But they avail not: I have done men good,
+</speech>
+        <speech>    And I have met with good even among men--
+</speech>
+        <speech>    But this availed not: I have had my foes,
+</speech>
+        <speech>    And none have baffled, many fallen before me--                      20
+</speech>
+        <speech>    But this availed not:--Good--or evil--life--
+</speech>
+        <speech>    Powers, passions--all I see in other beings,
+</speech>
+        <speech>    Have been to me as rain unto the sands,
+</speech>
+        <speech>    Since that all-nameless hour. I have no dread,
+</speech>
+        <speech>    And feel the curse to have no natural fear,
+</speech>
+        <speech>    Nor fluttering throb, that beats with hopes or wishes,
+</speech>
+        <speech>    Or lurking love of something on the earth.
+</speech>
+        <speech>    Now to my task.--
+</speech>
+        <speech>                     Mysterious Agency!
+</speech>
+        <speech>    Ye Spirits of the unbounded Universe!
+</speech>
+        <speech>    Whom I have sought in darkness and in light--                       30
+</speech>
+        <speech>    Ye, who do compass earth about, and dwell
+</speech>
+        <speech>    In subtler essence--ye, to whom the tops
+</speech>
+        <speech>    Of mountains inaccessible are haunts,
+</speech>
+        <speech>    And Earth's and Ocean's caves familiar things--
+</speech>
+        <speech>    I call upon ye by the written charm
+</speech>
+        <speech>    Which gives me power upon you--Rise! Appear!
+</speech>
+        <stage>                                                                 [A pause.]</stage>
+        <speech>    They come not yet.--Now by the voice of him
+</speech>
+        <speech>    Who is the first among you--by this sign,
+</speech>
+        <speech>    Which makes you tremble--by the claims of him
+</speech>
+        <speech>    Who is undying,--Rise! Appear!----Appear!                           40
+</speech>
+        <stage>                                                                 [A pause.]</stage>
+        <speech>    If it be so.--Spirits of Earth and Air,
+</speech>
+        <speech>    Ye shall not so elude me! By a power,
+</speech>
+        <speech>    Deeper than all yet urged, a tyrant-spell,
+</speech>
+        <speech>    Which had its birthplace in a star condemned,
+</speech>
+        <speech>    The burning wreck of a demolished world,
+</speech>
+        <speech>    A wandering hell in the eternal Space;
+</speech>
+        <speech>    By the strong curse which is upon my Soul,
+</speech>
+        <speech>    The thought which is within me and around me,
+</speech>
+        <speech>    I do compel ye to my will.--Appear!
+</speech>
+        <speech>         [A star is seen at the darker end of the gallery: it is
+</speech>
+        <speech>               stationary; and a voice is heard singing.]
+</speech>
+        <speaker name="FIRST SPIRIT">                               FIRST SPIRIT.</speaker>
+        <speech>      Mortal! to thy bidding bowed,                                     50
+</speech>
+        <speech>      From my mansion in the cloud,
+</speech>
+        <speech>      Which the breath of Twilight builds,
+</speech>
+        <speech>      And the Summer's sunset gilds
+</speech>
+        <speech>      With the azure and vermilion,
+</speech>
+        <speech>      Which is mixed for my pavilion;
+</speech>
+        <speech>      Though thy quest may be forbidden,
+</speech>
+        <speech>      On a star-beam I have ridden,
+</speech>
+        <speech>      To thine adjuration bowed:
+</speech>
+        <speech>      Mortal--be thy wish avowed!
+</speech>
+        <speaker name="SECOND SPIRIT">                       SECOND SPIRIT.</speaker>
+        <speech>    Mont Blanc is the Monarch of mountains;                             60
+</speech>
+        <speech>      They crowned him long ago
+</speech>
+        <speech>    On a throne of rocks, in a robe of clouds,
+</speech>
+        <speech>      With a Diadem of snow.
+</speech>
+        <speech>    Around his waist are forests braced,
+</speech>
+        <speech>      The Avalanche in his hand;
+</speech>
+        <speech>    But ere it fall, that thundering ball
+</speech>
+        <speech>      Must pause for my command.
+</speech>
+        <speech>    The Glacier's cold and restless mass
+</speech>
+        <speech>      Moves onward day by day;
+</speech>
+        <speech>    But I am he who bids it pass,                                       70
+</speech>
+        <speech>      Or with its ice delay.
+</speech>
+        <speech>    I am the Spirit of the place,
+</speech>
+        <speech>      Could make the mountain bow
+</speech>
+        <speech>    And quiver to his caverned base--
+</speech>
+        <speech>      And what with me would'st Thou?
+</speech>
+        <speaker name="THIRD SPIRIT">                        THIRD SPIRIT.</speaker>
+        <speech>    In the blue depth of the waters,
+</speech>
+        <speech>      Where the wave hath no strife,
+</speech>
+        <speech>    Where the Wind is a stranger,
+</speech>
+        <speech>      And the Sea-snake hath life,
+</speech>
+        <speech>    Where the Mermaid is decking                                        80
+</speech>
+        <speech>      Her green hair with shells,
+</speech>
+        <speech>    Like the storm on the surface
+</speech>
+        <speech>      Came the sound of thy spells;
+</speech>
+        <speech>    O'er my calm Hall of Coral
+</speech>
+        <speech>      The deep Echo rolled--
+</speech>
+        <speech>    To the Spirit of Ocean
+</speech>
+        <speech>      Thy wishes unfold!
+</speech>
+        <speech>                              FOURTH SPIRIT.
+</speech>
+        <speech>    Where the slumbering Earthquake
+</speech>
+        <speech>      Lies pillowed on fire,
+</speech>
+        <speech>    And the lakes of bitumen                                            90
+</speech>
+        <speech>      Rise boilingly higher;
+</speech>
+        <speech>    Where the roots of the Andes
+</speech>
+        <speech>      Strike deep in the earth,
+</speech>
+        <speech>    As their summits to heaven
+</speech>
+        <speech>      Shoot soaringly forth;
+</speech>
+        <speech>    I have quitted my birthplace,
+</speech>
+        <speech>      Thy bidding to bide--
+</speech>
+        <speech>    Thy spell hath subdued me,
+</speech>
+        <speech>      Thy will be my guide!
+</speech>
+        <speech>                              FIFTH SPIRIT.
+</speech>
+        <speech>    I am the Rider of the wind,                                        100
+</speech>
+        <speech>      The Stirrer of the storm;
+</speech>
+        <speech>    The hurricane I left behind
+</speech>
+        <speech>      Is yet with lightning warm;
+</speech>
+        <speech>    To speed to thee, o'er shore and sea
+</speech>
+        <speech>      I swept upon the blast:
+</speech>
+        <speech>    The fleet I met sailed well--and yet
+</speech>
+        <speech>      'Twill sink ere night be past.
+</speech>
+        <speech>                              SIXTH SPIRIT.
+</speech>
+        <speech>    My dwelling is the shadow of the Night,
+</speech>
+        <speech>    Why doth thy magic torture me with light?
+</speech>
+        <speech>                             SEVENTH SPIRIT.
+</speech>
+        <speech>    The Star which rules thy destiny no                                110
+</speech>
+        <speech>    Was ruled, ere earth began, by me:
+</speech>
+        <speech>    It was a World as fresh and fair
+</speech>
+        <speech>    As e'er revolved round Sun in air;
+</speech>
+        <speech>    Its course was free and regular,
+</speech>
+        <speech>    Space bosomed not a lovelier star.
+</speech>
+        <speech>    The Hour arrived--and it became
+</speech>
+        <speech>    A wandering mass of shapeless flame,
+</speech>
+        <speech>    A pathless Comet, and a curse,
+</speech>
+        <speech>    The menace of the Universe;
+</speech>
+        <speech>    Still rolling on with innate force,                                120
+</speech>
+        <speech>    Without a sphere, without a course,
+</speech>
+        <speech>    A bright deformity on high,
+</speech>
+        <speech>    The monster of the upper sky!
+</speech>
+        <speech>    And Thou! beneath its influence born--
+</speech>
+        <speech>    Thou worm! whom I obey and scorn--
+</speech>
+        <speech>    Forced by a Power (which is not thine,
+</speech>
+        <speech>    And lent thee but to make thee mine)
+</speech>
+        <speech>    For this brief moment to descend,
+</speech>
+        <speech>    Where these weak Spirits round thee bend
+</speech>
+        <speech>    And parley with a thing like thee--                                130
+</speech>
+        <speech>    What would'st thou, Child of Clay! with me?
+</speech>
+        <speech>                           The SEVEN SPIRITS.
+</speech>
+        <speech>    Earth--ocean--air--night--mountains--winds--thy Star,
+</speech>
+        <speech>      Are at thy beck and bidding, Child of Clay!
+</speech>
+        <speech>    Before thee at thy quest their Spirits are--
+</speech>
+        <speech>      What would'st thou with us, Son of mortals--say?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Forgetfulness----
+</speech>
+        <speaker name="FIRST SPIRIT">     FIRST SPIRIT.</speaker>
+        <speech>            Of what--of whom--and why?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Of that which is within me; read it there--
+</speech>
+        <speech>    Ye know it--and I cannot utter it.
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech> We can but give thee that which we possess:
+</speech>
+        <speech>    Ask of us subjects, sovereignty, the power                         140
+</speech>
+        <speech>    O'er earth--the whole, or portion--or a sign
+</speech>
+        <speech>    Which shall control the elements, whereof
+</speech>
+        <speech>    We are the dominators,--each and all,
+</speech>
+        <speech>    These shall be thine.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                Oblivion--self-oblivion!
+</speech>
+        <speech>    Can ye not wring from out the hidden realms
+</speech>
+        <speech>    Ye offer so profusely--what I ask?
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech> It is not in our essence, in our skill;
+</speech>
+        <speech>    But--thou may'st die.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                Will Death bestow it on me?
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech> We are immortal, and do not forget;
+</speech>
+        <speech>    We are eternal; and to us the past                                 150
+</speech>
+        <speech>    Is, as the future, present. Art thou answered?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Ye mock me--but the Power which brought ye here
+</speech>
+        <speech>    Hath made you mine. Slaves, scoff not at my will!
+</speech>
+        <speech>    The Mind--the Spirit--the Promethean spark,
+</speech>
+        <speech>    The lightning of my being, is as bright,
+</speech>
+        <speech>    Pervading, and far darting as your own,
+</speech>
+        <speech>    And shall not yield to yours, though cooped in clay!
+</speech>
+        <speech>    Answer, or I will teach you what I am.
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech> We answer--as we answered; our reply
+</speech>
+        <speech>    Is even in thine own words.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                      Why say ye so?                         160
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech> If, as thou say'st, thine essence be as ours,
+</speech>
+        <speech>    We have replied in telling thee, the thing
+</speech>
+        <speech>    Mortals call death hath nought to do with us.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> I then have called ye from your realms in vain;
+</speech>
+        <speech>    Ye cannot, or ye will not, aid me.
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech>                         Say--
+</speech>
+        <speech>    What we possess we offer; it is thine:
+</speech>
+        <speech>    Bethink ere thou dismiss us; ask again;
+</speech>
+        <speech>    Kingdom, and sway, and strength, and length of days--
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Accurséd! what have I to do with days?
+</speech>
+        <speech>    They are too long already.--Hence--begone!                         170
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech> Yet pause: being here, our will would do thee service;
+</speech>
+        <speech>    Bethink thee, is there then no other gift
+</speech>
+        <speech>    Which we can make not worthless in thine eyes?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> No, none: yet stay--one moment, ere we part,
+</speech>
+        <speech>    I would behold ye face to face. I hear
+</speech>
+        <speech>    Your voices, sweet and melancholy sounds,
+</speech>
+        <speech>    As Music on the waters; and I see
+</speech>
+        <speech>    The steady aspect of a clear large Star;
+</speech>
+        <speech>    But nothing more. Approach me as ye are,
+</speech>
+        <speech>    Or one--or all--in your accustomed forms.                          180
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech> We have no forms, beyond the elements
+</speech>
+        <speech>    Of which we are the mind and principle:
+</speech>
+        <speech>    But choose a form--in that we will appear.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> I have no choice; there is no form on earth
+</speech>
+        <speech>    Hideous or beautiful to me. Let him,
+</speech>
+        <speech>    Who is most powerful of ye, take such aspect
+</speech>
+        <speech>    As unto him may seem most fitting--Come!
+</speech>
+        <speech>    Seventh Spirit (appearing in the shape of a beautiful
+</speech>
+        <speech>    female figure). Behold!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>        Oh God! if it be thus, and thou
+</speech>
+        <speech>    Art not a madness and a mockery,
+</speech>
+        <speech>    I yet might be most happy. I will clasp thee,                      190
+</speech>
+        <speech>    And we again will be----
+</speech>
+        <stage>                                                   [The figure vanishes.]</stage>
+        <speech>                            My heart is crushed!
+</speech>
+        <stage>                                               [MANFRED falls senseless.]</stage>
+        <speech>       (A voice is heard in the Incantation which follows.)
+</speech>
+        <speech>        When the Moon is on the wave,
+</speech>
+        <speech>          And the glow-worm in the grass,
+</speech>
+        <speech>        And the meteor on the grave,
+</speech>
+        <speech>          And the wisp on the morass;
+</speech>
+        <speech>        When the falling stars are shooting,
+</speech>
+        <speech>        And the answered owls are hooting,
+</speech>
+        <speech>        And the silent leaves are still
+</speech>
+        <speech>        In the shadow of the hill,
+</speech>
+        <speech>        Shall my soul be upon thine,                                   200
+</speech>
+        <speech>        With a power and with a sign.
+</speech>
+        <speech>        Though thy slumber may be deep,
+</speech>
+        <speech>        Yet thy Spirit shall not sleep;
+</speech>
+        <speech>        There are shades which will not vanish,
+</speech>
+        <speech>        There are thoughts thou canst not banish;
+</speech>
+        <speech>        By a Power to thee unknown,
+</speech>
+        <speech>        Thou canst never be alone;
+</speech>
+        <speech>        Thou art wrapt as with a shroud,
+</speech>
+        <speech>        Thou art gathered in a cloud;
+</speech>
+        <speech>        And for ever shalt thou dwell                                  210
+</speech>
+        <speech>        In the spirit of this spell.
+</speech>
+        <speech>        Though thou seest me not pass by,
+</speech>
+        <speech>        Thou shalt feel me with thine eye
+</speech>
+        <speech>        As a thing that, though unseen,
+</speech>
+        <speech>        Must be near thee, and hath been;
+</speech>
+        <speech>        And when in that secret dread
+</speech>
+        <speech>        Thou hast turned around thy head,
+</speech>
+        <speech>        Thou shalt marvel I am not
+</speech>
+        <speech>        As thy shadow on the spot,
+</speech>
+        <speech>        And the power which thou dost feel                             220
+</speech>
+        <speech>        Shall be what thou must conceal.
+</speech>
+        <speech>        And a magic voice and verse
+</speech>
+        <speech>        Hath baptized thee with a curse;
+</speech>
+        <speech>        And a Spirit of the air
+</speech>
+        <speech>        Hath begirt thee with a snare;
+</speech>
+        <speech>        In the wind there is a voice
+</speech>
+        <speech>        Shall forbid thee to rejoice;
+</speech>
+        <speech>        And to thee shall Night deny
+</speech>
+        <speech>        All the quiet of her sky;
+</speech>
+        <speech>        And the day shall have a sun,                                  230
+</speech>
+        <speech>        Which shall make thee wish it done.
+</speech>
+        <speech>        From thy false tears I did distil
+</speech>
+        <speech>        An essence which hath strength to kill;
+</speech>
+        <speech>        From thy own heart I then did wring
+</speech>
+        <speech>        The black blood in its blackest spring;
+</speech>
+        <speech>        From thy own smile I snatched the snake,
+</speech>
+        <speech>        For there it coiled as in a brake;
+</speech>
+        <speech>        From thy own lip I drew the charm
+</speech>
+        <speech>        Which gave all these their chiefest harm;
+</speech>
+        <speech>        In proving every poison known,                                 240
+</speech>
+        <speech>        I found the strongest was thine own.
+</speech>
+        <speech>        By the cold breast and serpent smile,
+</speech>
+        <speech>        By thy unfathomed gulfs of guile,
+</speech>
+        <speech>        By that most seeming virtuous eye,
+</speech>
+        <speech>        By thy shut soul's hypocrisy;
+</speech>
+        <speech>        By the perfection of thine art
+</speech>
+        <speech>        Which passed for human thine own heart;
+</speech>
+        <speech>        By thy delight in others' pain,
+</speech>
+        <speech>        And by thy brotherhood of Cain,
+</speech>
+        <speech>        I call upon thee! and compel                               250
+</speech>
+        <speech>        Thyself to be thy proper Hell!
+</speech>
+        <speech>        And on thy head I pour the vial
+</speech>
+        <speech>        Which doth devote thee to this trial;
+</speech>
+        <speech>        Nor to slumber, nor to die,
+</speech>
+        <speech>        Shall be in thy destiny;
+</speech>
+        <speech>        Though thy death shall still seem near
+</speech>
+        <speech>        To thy wish, but as a fear;
+</speech>
+        <speech>        Lo! the spell now works around thee,
+</speech>
+        <speech>        And the clankless chain hath bound thee;
+</speech>
+        <speech>        O'er thy heart and brain together                              260
+</speech>
+        <speech>        Hath the word been passed--now wither!
+</speech>
       </scene>
-      <scene n="2">               SCENE II.<character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
+      <scene n="2">               SCENE II.<speech>            Time, Morning.--MANFRED alone upon the cliffs.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> The spirits I have raised abandon me,
+</speech>
+        <speech>    The spells which I have studied baffle me,
+</speech>
+        <speech>    The remedy I recked of tortured me
+</speech>
+        <speech>    I lean no more on superhuman aid;
+</speech>
+        <speech>    It hath no power upon the past, and for
+</speech>
+        <speech>    The future, till the past be gulfed in darkness,
+</speech>
+        <speech>    It is not of my search.--My Mother Earth!
+</speech>
+        <speech>    And thou fresh-breaking Day, and you, ye Mountains,
+</speech>
+        <speech>    Why are ye beautiful? I cannot love ye.
+</speech>
+        <speech>    And thou, the bright Eye of the Universe,                           10
+</speech>
+        <speech>    That openest over all, and unto all
+</speech>
+        <speech>    Art a delight--thou shin'st not on my heart.
+</speech>
+        <speech>    And you, ye crags, upon whose extreme edge
+</speech>
+        <speech>    I stand, and on the torrent's brink beneath
+</speech>
+        <speech>    Behold the tall pines dwindled as to shrubs
+</speech>
+        <speech>    In dizziness of distance; when a leap,
+</speech>
+        <speech>    A stir, a motion, even a breath, would bring
+</speech>
+        <speech>    My breast upon its rocky bosom's bed
+</speech>
+        <speech>    To rest for ever--wherefore do I pause?
+</speech>
+        <speech>    I feel the impulse--yet I do not plunge;                            20
+</speech>
+        <speech>    I see the peril--yet do not recede;
+</speech>
+        <speech>    And my brain reels--and yet my foot is firm:
+</speech>
+        <speech>    There is a power upon me which withholds,
+</speech>
+        <speech>    And makes it my fatality to live,--
+</speech>
+        <speech>    If it be life to wear within myself
+</speech>
+        <speech>    This barrenness of Spirit, and to be
+</speech>
+        <speech>    My own Soul's sepulchre, for I have ceased
+</speech>
+        <speech>    To justify my deeds unto myself--
+</speech>
+        <speech>    The last infirmity of evil. Aye,
+</speech>
+        <speech>    Thou winged and cloud-cleaving minister,                            30
+</speech>
+        <stage>                                                       [An Eagle passes.]</stage>
+        <speech>    Whose happy flight is highest into heaven,
+</speech>
+        <speech>    Well may'st thou swoop so near me--I should be
+</speech>
+        <speech>    Thy prey, and gorge thine eaglets; thou art gone
+</speech>
+        <speech>    Where the eye cannot follow thee; but thine
+</speech>
+        <speech>    Yet pierces downward, onward, or above,
+</speech>
+        <speech>    With a pervading vision.--Beautiful!
+</speech>
+        <speech>    How beautiful is all this visible world!
+</speech>
+        <speech>    How glorious in its action and itself!
+</speech>
+        <speech>    But we, who name ourselves its sovereigns, we,
+</speech>
+        <speech>    Half dust, half deity, alike unfit                                  40
+</speech>
+        <speech>    To sink or soar, with our mixed essence make
+</speech>
+        <speech>    A conflict of its elements, and breathe
+</speech>
+        <speech>    The breath of degradation and of pride,
+</speech>
+        <speech>    Contending with low wants and lofty will,
+</speech>
+        <speech>    Till our Mortality predominates,
+</speech>
+        <speech>    And men are--what they name not to themselves,
+</speech>
+        <speech>    And trust not to each other. Hark! the note,
+</speech>
+        <speech>                          [The Shepherd's pipe in the distance is heard.]
+</speech>
+        <speech>    The natural music of the mountain reed--
+</speech>
+        <speech>    For here the patriarchal days are not
+</speech>
+        <speech>    A pastoral fable--pipes in the liberal air,                         50
+</speech>
+        <speech>    Mixed with the sweet bells of the sauntering herd;
+</speech>
+        <speech>    My soul would drink those echoes. Oh, that I were
+</speech>
+        <speech>    The viewless spirit of a lovely sound,
+</speech>
+        <speech>    A living voice, a breathing harmony,
+</speech>
+        <speech>    A bodiless enjoyment--born and dying
+</speech>
+        <speech>    With the blest tone which made me!
+</speech>
+        <stage>                   [Enter from below a CHAMOIS HUNTER.]</stage>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech>                Even so
+</speech>
+        <speech>    This way the Chamois leapt: her nimble feet
+</speech>
+        <speech>    Have baffled me; my gains to-day will scarce
+</speech>
+        <speech>    Repay my break-neck travail.--What is here?
+</speech>
+        <speech>    Who seems not of my trade, and yet hath reached                     60
+</speech>
+        <speech>    A height which none even of our mountaineers,
+</speech>
+        <speech>    Save our best hunters, may attain: his garb
+</speech>
+        <speech>    Is goodly, his mien manly, and his air
+</speech>
+        <speech>    Proud as a free-born peasant's, at this distance:
+</speech>
+        <speech>    I will approach him nearer.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> (not perceiving the other). To be thus--
+</speech>
+        <speech>    Grey-haired with anguish, like these blasted pines,
+</speech>
+        <speech>    Wrecks of a single winter, barkless, branchless,
+</speech>
+        <speech>    A blighted trunk upon a curséd root,
+</speech>
+        <speech>    Which but supplies a feeling to Decay--
+</speech>
+        <speech>    And to be thus, eternally but thus,                                 70
+</speech>
+        <speech>    Having been otherwise! Now furrowed o'er
+</speech>
+        <speech>    With wrinkles, ploughed by moments, not by years
+</speech>
+        <speech>    And hours, all tortured into ages--hours
+</speech>
+        <speech>    Which I outlive!--Ye toppling crags of ice!
+</speech>
+        <speech>    Ye Avalanches, whom a breath draws down
+</speech>
+        <speech>    In mountainous o'erwhelming, come and crush me!
+</speech>
+        <speech>    I hear ye momently above, beneath,
+</speech>
+        <speech>    Crash with a frequent conflict; but ye pass,
+</speech>
+        <speech>    And only fall on things that still would live;
+</speech>
+        <speech>    On the young flourishing forest, or the hut                         80
+</speech>
+        <speech>    And hamlet of the harmless villager.
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> The mists begin to rise from up the valley;
+</speech>
+        <speech>    I'll warn him to descend, or he may chance
+</speech>
+        <speech>    To lose at once his way and life together.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> The mists boil up around the glaciers; clouds
+</speech>
+        <speech>    Rise curling fast beneath me, white and sulphury,
+</speech>
+        <speech>    Like foam from the roused ocean of deep Hell,
+</speech>
+        <speech>    Whose every wave breaks on a living shore,
+</speech>
+        <speech>    Heaped with the damned like pebbles.--I am giddy.
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> I must approach him cautiously; if near,                  90
+</speech>
+        <speech>    A sudden step will startle him, and he
+</speech>
+        <speech>    Seems tottering already.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                  Mountains have fallen,
+</speech>
+        <speech>    Leaving a gap in the clouds, and with the shock
+</speech>
+        <speech>    Rocking their Alpine brethren; filling up
+</speech>
+        <speech>    The ripe green valleys with Destruction's splinters;
+</speech>
+        <speech>    Damming the rivers with a sudden dash,
+</speech>
+        <speech>    Which crushed the waters into mist, and made
+</speech>
+        <speech>    Their fountains find another channel--thus,
+</speech>
+        <speech>    Thus, in its old age, did Mount Rosenberg--
+</speech>
+        <speech>    Why stood I not beneath it?
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech>                  Friend! have a care,                    100
+</speech>
+        <speech>    Your next step may be fatal!--for the love
+</speech>
+        <speech>    Of Him who made you, stand not on that brink!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> (not hearing him).
+</speech>
+        <speech>    Such would have been for me a fitting tomb;
+</speech>
+        <speech>    My bones had then been quiet in their depth;
+</speech>
+        <speech>    They had not then been strewn upon the rocks
+</speech>
+        <speech>    For the wind's pastime--as thus--thus they shall be--
+</speech>
+        <speech>    In this one plunge.--Farewell, ye opening Heavens!
+</speech>
+        <speech>    Look not upon me thus reproachfully--
+</speech>
+        <speech>    You were not meant for me--Earth! take these atoms!
+</speech>
+        <speech>         [As MANFRED is in act to spring from the cliff, the
+</speech>
+        <speech>      CHAMOIS HUNTER seizes and retains him with a sudden grasp.]
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> Hold, madman!--though aweary of thy life,                110
+</speech>
+        <speech>    Stain not our pure vales with thy guilty blood:
+</speech>
+        <speech>    Away with me----I will not quit my hold.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> I am most sick at heart--nay, grasp me not--
+</speech>
+        <speech>    I am all feebleness--the mountains whirl
+</speech>
+        <speech>    Spinning around me----I grow blind----What art thou?
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> I'll answer that anon.--Away with me----
+</speech>
+        <speech>    The clouds grow thicker----there--now lean on me--
+</speech>
+        <speech>    Place your foot here--here, take this staff, and cling
+</speech>
+        <speech>    A moment to that shrub--now give me your hand,
+</speech>
+        <speech>    And hold fast by my girdle--softly--well--                         120
+</speech>
+        <speech>    The Chalet will be gained within an hour:
+</speech>
+        <speech>    Come on, we'll quickly find a surer footing,
+</speech>
+        <speech>    And something like a pathway, which the torrent
+</speech>
+        <speech>    Hath washed since winter.--Come,'tis bravely done--
+</speech>
+        <speech>    You should have been a hunter.--Follow me.
+</speech>
+        <stage>           [As they descend the rocks with difficulty, the scene closes.]</stage>
       </scene>
     </act>
-    <act n="2">                                 ACT II.<scene n="1">             SCENE I.<character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</character>
-        <character name="MANFRED">     MANFRED.</character>
+    <act n="2">                                 ACT II.<scene n="1">             SCENE I.<speech>                    MANFRED and the CHAMOIS HUNTER.
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> No--no--yet pause--thou must not yet go forth;
+</speech>
+        <speech>    Thy mind and body are alike unfit
+</speech>
+        <speech>    To trust each other, for some hours, at least;
+</speech>
+        <speech>    When thou art better, I will be thy guide--
+</speech>
+        <speech>    But whither?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>       It imports not: I do know
+</speech>
+        <speech>    My route full well, and need no further guidance.
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> Thy garb and gait bespeak thee of high lineage--
+</speech>
+        <speech>    One of the many chiefs, whose castled crags
+</speech>
+        <speech>    Look o'er the lower valleys--which of these
+</speech>
+        <speech>    May call thee lord? I only know their portals;                      10
+</speech>
+        <speech>    My way of life leads me but rarely down
+</speech>
+        <speech>    To bask by the huge hearths of those old halls,
+</speech>
+        <speech>    Carousing with the vassals; but the paths,
+</speech>
+        <speech>    Which step from out our mountains to their doors,
+</speech>
+        <speech>    I know from childhood--which of these is thine?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> No matter.
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech>         Well, Sir, pardon me the question,
+</speech>
+        <speech>    And be of better cheer. Come, taste my wine;
+</speech>
+        <speech>    'Tis of an ancient vintage; many a day
+</speech>
+        <speech>    'T has thawed my veins among our glaciers, now
+</speech>
+        <speech>    Let it do thus for thine--Come, pledge me fairly!                   20
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Away, away! there's blood upon the brim!
+</speech>
+        <speech>    Will it then never--never sink in the earth?
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> What dost thou mean? thy senses wander from thee.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> I say 'tis blood--my blood! the pure warm stream
+</speech>
+        <speech>    Which ran in the veins of my fathers, and in ours
+</speech>
+        <speech>    When we were in our youth, and had one heart,
+</speech>
+        <speech>    And loved each other as we should not love,
+</speech>
+        <speech>    And this was shed: but still it rises up,
+</speech>
+        <speech>    Colouring the clouds, that shut me out from Heaven,
+</speech>
+        <speech>    Where thou art not--and I shall never be.                           30
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> Man of strange words, and some half-maddening sin,
+</speech>
+        <speech>    Which makes thee people vacancy, whate'er
+</speech>
+        <speech>    Thy dread and sufferance be, there's comfort yet--
+</speech>
+        <speech>    The aid of holy men, and heavenly patience----
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Patience--and patience! Hence--that word was made
+</speech>
+        <speech>    For brutes of burthen, not for birds of prey!
+</speech>
+        <speech>    Preach it to mortals of a dust like thine,--
+</speech>
+        <speech>    I am not of thine order.
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech>                Thanks to Heaven!
+</speech>
+        <speech>    I would not be of thine for the free fame
+</speech>
+        <speech>    Of William Tell; but whatsoe'er thine ill,                          40
+</speech>
+        <speech>    It must be borne, and these wild starts are useless.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Do I not bear it?--Look on me--I live.
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> This is convulsion, and no healthful life.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> I tell thee, man! I have lived many years,
+</speech>
+        <speech>    Many long years, but they are nothing now
+</speech>
+        <speech>    To those which I must number: ages--ages--
+</speech>
+        <speech>    Space and eternity--and consciousness,
+</speech>
+        <speech>    With the fierce thirst of death--and still unslaked!
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> Why on thy brow the seal of middle age
+</speech>
+        <speech>    Hath scarce been set; I am thine elder far.                         50
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Think'st thou existence doth depend on time?
+</speech>
+        <speech>    It doth; but actions are our epochs: mine
+</speech>
+        <speech>    Have made my days and nights imperishable,
+</speech>
+        <speech>    Endless, and all alike, as sands on the shore,
+</speech>
+        <speech>    Innumerable atoms; and one desert,
+</speech>
+        <speech>    Barren and cold, on which the wild waves break,
+</speech>
+        <speech>    But nothing rests, save carcasses and wrecks,
+</speech>
+        <speech>    Rocks, and the salt-surf weeds of bitterness.
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> Alas! he's mad--but yet I must not leave him.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> I would I were--for then the things I see                    60
+</speech>
+        <speech>    Would be but a distempered dream.
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech>                         What is it
+</speech>
+        <speech>    That thou dost see, or think thou look'st upon?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Myself, and thee--a peasant of the Alps--
+</speech>
+        <speech>    Thy humble virtues, hospitable home,
+</speech>
+        <speech>    And spirit patient, pious, proud, and free;
+</speech>
+        <speech>    Thy self-respect, grafted on innocent thoughts;
+</speech>
+        <speech>    Thy days of health, and nights of sleep; thy toils,
+</speech>
+        <speech>    By danger dignified, yet guiltless; hopes
+</speech>
+        <speech>    Of cheerful old age and a quiet grave,
+</speech>
+        <speech>    With cross and garland over its green turf,                         70
+</speech>
+        <speech>    And thy grandchildren's love for epitaph!
+</speech>
+        <speech>    This do I see--and then I look within--
+</speech>
+        <speech>    It matters not--my Soul was scorched already!
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech> And would'st thou then exchange thy lot for mine?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> No, friend! I would not wrong thee, nor exchange
+</speech>
+        <speech>    My lot with living being: I can bear--
+</speech>
+        <speech>    However wretchedly, 'tis still to bear--
+</speech>
+        <speech>    In life what others could not brook to dream,
+</speech>
+        <speech>    But perish in their slumber.
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech>                    And with this--
+</speech>
+        <speech>    This cautious feeling for another's pain,                           80
+</speech>
+        <speech>    Canst thou be black with evil?--say not so.
+</speech>
+        <speech>    Can one of gentle thoughts have wreaked revenge
+</speech>
+        <speech>    Upon his enemies?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>             Oh! no, no, no!
+</speech>
+        <speech>    My injuries came down on those who loved me--
+</speech>
+        <speech>    On those whom I best loved: I never quelled
+</speech>
+        <speech>    An enemy, save in my just defence--
+</speech>
+        <speech>    But my embrace was fatal.
+</speech>
+        <speaker name="CHAMOIS HUNTER">     CHAMOIS HUNTER.</speaker>
+        <speech>                Heaven give thee rest!
+</speech>
+        <speech>    And Penitence restore thee to thyself;
+</speech>
+        <speech>    My prayers shall be for thee.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                        I need them not,
+</speech>
+        <speech>    But can endure thy pity. I depart--                                 90
+</speech>
+        <speech>    'Tis time--farewell!--Here's gold, and thanks for thee--
+</speech>
+        <speech>    No words--it is thy due.--Follow me not--
+</speech>
+        <speech>    I know my path--the mountain peril's past:
+</speech>
+        <speech>    And once again I charge thee, follow not!
+</speech>
+        <stage>                                                          [Exit MANFRED.]</stage>
       </scene>
-      <scene n="2">          SCENE II.<character name="WITCH">     WITCH.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="WITCH">     WITCH.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="WITCH">     WITCH.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="WITCH">     WITCH.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="WITCH">     WITCH.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="WITCH">     WITCH.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="WITCH">     WITCH.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="WITCH">     WITCH.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="WITCH">     WITCH.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="WITCH">     WITCH.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="WITCH">     WITCH.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="MANFRED">     MANFRED.</character>
+      <scene n="2">          SCENE II.<stage>                             [Enter MANFRED.]</stage>
+        <speech>    It is not noon--the Sunbow's rays still arch
+</speech>
+        <speech>    The torrent with the many hues of heaven,
+</speech>
+        <speech>    And roll the sheeted silver's waving column
+</speech>
+        <speech>    O'er the crag's headlong perpendicular,
+</speech>
+        <speech>    And fling its lines of foaming light along,
+</speech>
+        <speech>    And to and fro, like the pale courser's tail,
+</speech>
+        <speech>    The Giant steed, to be bestrode by Death,
+</speech>
+        <speech>    As told in the Apocalypse. No eyes
+</speech>
+        <speech>    But mine now drink this sight of loveliness;
+</speech>
+        <speech>    I should be sole in this sweet solitude,                            10
+</speech>
+        <speech>    And with the Spirit of the place divide
+</speech>
+        <speech>    The homage of these waters.--I will call her.
+</speech>
+        <speech>                 [MANFRED takes some of the water into the palm of his
+</speech>
+        <speech>                 hand and flings it into the air, muttering the ajuration.]
+</speech>
+        <speech>                 [After a pause, the WITCH OF THE ALPS rises beneath
+</speech>
+        <speech>                 the arch of the sunbow of the torrent.]
+</speech>
+        <speech>    Beautiful Spirit! with thy hair of light,
+</speech>
+        <speech>    And dazzling eyes of glory, in whose form
+</speech>
+        <speech>    The charms of Earth's least mortal daughters grow
+</speech>
+        <speech>    To an unearthly stature, in an essence
+</speech>
+        <speech>    Of purer elements; while the hues of youth,--
+</speech>
+        <speech>    Carnationed like a sleeping Infant's cheek,
+</speech>
+        <speech>    Rocked by the beating of her mother's heart,
+</speech>
+        <speech>    Or the rose tints, which Summer's twilight leaves                   20
+</speech>
+        <speech>    Upon the lofty Glacier's virgin snow,
+</speech>
+        <speech>    The blush of earth embracing with her Heaven,--
+</speech>
+        <speech>    Tinge thy celestial aspect, and make tame
+</speech>
+        <speech>    The beauties of the Sunbow which bends o'er thee.
+</speech>
+        <speech>    Beautiful Spirit! in thy calm clear brow,
+</speech>
+        <speech>    Wherein is glassed serenity of Soul,
+</speech>
+        <speech>    Which of itself shows immortality,
+</speech>
+        <speech>    I read that thou wilt pardon to a Son
+</speech>
+        <speech>    Of Earth, whom the abstruser powers permit
+</speech>
+        <speech>    At times to commune with them--if that he                           30
+</speech>
+        <speech>    Avail him of his spells--to call thee thus,
+</speech>
+        <speech>    And gaze on thee a moment.
+</speech>
+        <speaker name="WITCH">     WITCH.</speaker>
+        <speech>                   Son of Earth!
+</speech>
+        <speech>    I know thee, and the Powers which give thee power!
+</speech>
+        <speech>    I know thee for a man of many thoughts,
+</speech>
+        <speech>    And deeds of good and ill, extreme in both,
+</speech>
+        <speech>    Fatal and fated in thy sufferings.
+</speech>
+        <speech>    I have expected this--what would'st thou with me?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> To look upon thy beauty--nothing further.
+</speech>
+        <speech>    The face of the earth hath maddened me, and I
+</speech>
+        <speech>    Take refuge in her mysteries, and pierce                            40
+</speech>
+        <speech>    To the abodes of those who govern her--
+</speech>
+        <speech>    But they can nothing aid me. I have sought
+</speech>
+        <speech>    From them what they could not bestow, and now
+</speech>
+        <speech>    I search no further.
+</speech>
+        <speaker name="WITCH">     WITCH.</speaker>
+        <speech>             What could be the quest
+</speech>
+        <speech>    Which is not in the power of the most powerful,
+</speech>
+        <speech>    The rulers of the invisible?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                       A boon;--
+</speech>
+        <speech>    But why should I repeat it? 'twere in vain.
+</speech>
+        <speaker name="WITCH">     WITCH.</speaker>
+        <speech> I know not that; let thy lips utter it.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Well, though it torture me, 'tis but the same;
+</speech>
+        <speech>    My pang shall find a voice. From my youth upwards                   50
+</speech>
+        <speech>    My Spirit walked not with the souls of men,
+</speech>
+        <speech>    Nor looked upon the earth with human eyes;
+</speech>
+        <speech>    The thirst of their ambition was not mine,
+</speech>
+        <speech>    The aim of their existence was not mine;
+</speech>
+        <speech>    My joys--my griefs--my passions--and my powers,
+</speech>
+        <speech>    Made me a stranger; though I wore the form,
+</speech>
+        <speech>    I had no sympathy with breathing flesh,
+</speech>
+        <speech>    Nor midst the Creatures of Clay that girded me
+</speech>
+        <speech>    Was there but One who--but of her anon.
+</speech>
+        <speech>    I said with men, and with the thoughts of men,                      60
+</speech>
+        <speech>    I held but slight communion; but instead,
+</speech>
+        <speech>    My joy was in the wilderness,--to breathe
+</speech>
+        <speech>    The difficult air of the iced mountain's top,
+</speech>
+        <speech>    Where the birds dare not build--nor insect's wing
+</speech>
+        <speech>    Flit o'er the herbless granite; or to plunge
+</speech>
+        <speech>    Into the torrent, and to roll along
+</speech>
+        <speech>    On the swift whirl of the new-breaking wave
+</speech>
+        <speech>    Of river-stream, or Ocean, in their flow.
+</speech>
+        <speech>    In these my early strength exulted; or
+</speech>
+        <speech>    To follow through the night the moving moon,                   70
+</speech>
+        <speech>    The stars and their development; or catch
+</speech>
+        <speech>    The dazzling lightnings till my eyes grew dim;
+</speech>
+        <speech>    Or to look, list'ning, on the scattered leaves,
+</speech>
+        <speech>    While Autumn winds were at their evening song.
+</speech>
+        <speech>    These were my pastimes, and to be alone;
+</speech>
+        <speech>    For if the beings, of whom I was one,--
+</speech>
+        <speech>    Hating to be so,--crossed me in my path,
+</speech>
+        <speech>    I felt myself degraded back to them,
+</speech>
+        <speech>    And was all clay again. And then I dived,
+</speech>
+        <speech>    In my lone wanderings, to the caves of Death,                       80
+</speech>
+        <speech>    Searching its cause in its effect; and drew
+</speech>
+        <speech>    From withered bones, and skulls, and heaped up dust
+</speech>
+        <speech>    Conclusions most forbidden. Then I passed--
+</speech>
+        <speech>    The nights of years in sciences untaught,
+</speech>
+        <speech>    Save in the old-time; and with time and toil,
+</speech>
+        <speech>    And terrible ordeal, and such penance
+</speech>
+        <speech>    As in itself hath power upon the air,
+</speech>
+        <speech>    And spirits that do compass air and earth,
+</speech>
+        <speech>    Space, and the peopled Infinite, I made
+</speech>
+        <speech>    Mine eyes familiar with Eternity,                                   90
+</speech>
+        <speech>    Such as, before me, did the Magi, and
+</speech>
+        <speech>    He who from out their fountain-dwellings raised
+</speech>
+        <speech>    Eros and Anteros, at Gadara,
+</speech>
+        <speech>    As I do thee;--and with my knowledge grew
+</speech>
+        <speech>    The thirst of knowledge, and the power and joy
+</speech>
+        <speech>    Of this most bright intelligence, until----
+</speech>
+        <speaker name="WITCH">     WITCH.</speaker>
+        <speech> Proceed.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>            Oh! I but thus prolonged my words,
+</speech>
+        <speech>    Boasting these idle attributes, because
+</speech>
+        <speech>    As I approach the core of my heart's grief--
+</speech>
+        <speech>    But--to my task. I have not named to thee                          100
+</speech>
+        <speech>    Father or mother, mistress, friend, or being,
+</speech>
+        <speech>    With whom I wore the chain of human ties;
+</speech>
+        <speech>    If I had such, they seemed not such to me--
+</speech>
+        <speech>    Yet there was One----
+</speech>
+        <speaker name="WITCH">     WITCH.</speaker>
+        <speech>                Spare not thyself--proceed.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> She was like me in lineaments--her eyes--
+</speech>
+        <speech>    Her hair--her features--all, to the very tone
+</speech>
+        <speech>    Even of her voice, they said were like to mine;
+</speech>
+        <speech>    But softened all, and tempered into beauty:
+</speech>
+        <speech>    She had the same lone thoughts and wanderings,
+</speech>
+        <speech>    The quest of hidden knowledge, and a mind                          110
+</speech>
+        <speech>    To comprehend the Universe: nor these
+</speech>
+        <speech>    Alone, but with them gentler powers than mine,
+</speech>
+        <speech>    Pity, and smiles, and tears--which I had not;
+</speech>
+        <speech>    And tenderness--but that I had for her;
+</speech>
+        <speech>    Humility--and that I never had.
+</speech>
+        <speech>    Her faults were mine--her virtues were her own--
+</speech>
+        <speech>    I loved her, and destroyed her!
+</speech>
+        <speaker name="WITCH">     WITCH.</speaker>
+        <speech>                          With thy hand?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Not with my hand, but heart, which broke her heart;
+</speech>
+        <speech>    It gazed on mine, and withered. I have shed
+</speech>
+        <speech>    Blood, but not hers--and yet her blood was shed;                   120
+</speech>
+        <speech>    I saw--and could not stanch it.
+</speech>
+        <speaker name="WITCH">     WITCH.</speaker>
+        <speech>                         And for this--
+</speech>
+        <speech>    A being of the race thou dost despise--
+</speech>
+        <speech>    The order, which thine own would rise above,
+</speech>
+        <speech>    Mingling with us and ours,--thou dost forego
+</speech>
+        <speech>    The gifts of our great knowledge, and shrink'st back
+</speech>
+        <speech>    To recreant mortality----Away!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Daughter of Air! I tell thee, since that hour--
+</speech>
+        <speech>    But words are breath--look on me in my sleep,
+</speech>
+        <speech>    Or watch my watchings--Come and sit by me!
+</speech>
+        <speech>    My solitude is solitude no more,                                   130
+</speech>
+        <speech>    But peopled with the Furies;--I have gnashed
+</speech>
+        <speech>    My teeth in darkness till returning morn,
+</speech>
+        <speech>    Then cursed myself till sunset;--I have prayed
+</speech>
+        <speech>    For madness as a blessing--'tis denied me.
+</speech>
+        <speech>    I have affronted Death--but in the war
+</speech>
+        <speech>    Of elements the waters shrunk from me,
+</speech>
+        <speech>    And fatal things passed harmless; the cold hand
+</speech>
+        <speech>    Of an all-pitiless Demon held me back,
+</speech>
+        <speech>    Back by a single hair, which would not break.
+</speech>
+        <speech>    In Fantasy, Imagination, all                                       140
+</speech>
+        <speech>    The affluence of my soul--which one day was
+</speech>
+        <speech>    A Croesus in creation--I plunged deep,
+</speech>
+        <speech>    But, like an ebbing wave, it dashed me back
+</speech>
+        <speech>    Into the gulf of my unfathomed thought.
+</speech>
+        <speech>    I plunged amidst Mankind--Forgetfulness
+</speech>
+        <speech>    I sought in all, save where 'tis to be found--
+</speech>
+        <speech>    And that I have to learn--my Sciences,
+</speech>
+        <speech>    My long pursued and superhuman art,
+</speech>
+        <speech>    Is mortal here: I dwell in my despair--
+</speech>
+        <speech>    And live--and live for ever.
+</speech>
+        <speaker name="WITCH">     WITCH.</speaker>
+        <speech>                     It may be                            150
+</speech>
+        <speech>    That I can aid thee.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>               To do this thy power
+</speech>
+        <speech>    Must wake the dead, or lay me low with them.
+</speech>
+        <speech>    Do so--in any shape--in any hour--
+</speech>
+        <speech>    With any torture--so it be the last.
+</speech>
+        <speaker name="WITCH">     WITCH.</speaker>
+        <speech> That is not in my province; but if thou
+</speech>
+        <speech>    Wilt swear obedience to my will, and do
+</speech>
+        <speech>    My bidding, it may help thee to thy wishes.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> I will not swear--Obey! and whom? the Spirits
+</speech>
+        <speech>    Whose presence I command, and be the slave
+</speech>
+        <speech>    Of those who served me--Never!
+</speech>
+        <speaker name="WITCH">     WITCH.</speaker>
+        <speech>                       Is this all?                        160
+</speech>
+        <speech>    Hast thou no gentler answer?--Yet bethink thee,
+</speech>
+        <speech>    And pause ere thou rejectest.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                       I have said it.
+</speech>
+        <speaker name="WITCH">     WITCH.</speaker>
+        <speech> Enough! I may retire then--say!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                                       Retire!
+</speech>
+        <stage>                                                [The WITCH disappears.]</stage>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> (alone). We are the fools of Time and Terror: Days
+</speech>
+        <speech>    Steal on us, and steal from us; yet we live,
+</speech>
+        <speech>    Loathing our life, and dreading still to die.
+</speech>
+        <speech>    In all the days of this detested yoke--
+</speech>
+        <speech>    This vital weight upon the struggling heart,
+</speech>
+        <speech>    Which sinks with sorrow, or beats quick with pain,
+</speech>
+        <speech>    Or joy that ends in agony or faintness--                           170
+</speech>
+        <speech>    In all the days of past and future--for
+</speech>
+        <speech>    In life there is no present--we can number
+</speech>
+        <speech>    How few--how less than few--wherein the soul
+</speech>
+        <speech>    Forbears to pant for death, and yet draws back
+</speech>
+        <speech>    As from a stream in winter, though the chill
+</speech>
+        <speech>    Be but a moment's. I have one resource
+</speech>
+        <speech>    Still in my science--I can call the dead,
+</speech>
+        <speech>    And ask them what it is we dread to be:
+</speech>
+        <speech>    The sternest answer can but be the Grave,
+</speech>
+        <speech>    And that is nothing: if they answer not--                          180
+</speech>
+        <speech>    The buried Prophet answered to the Hag
+</speech>
+        <speech>    Of Endor; and the Spartan Monarch drew
+</speech>
+        <speech>    From the Byzantine maid's unsleeping spirit
+</speech>
+        <speech>    An answer and his destiny--he slew
+</speech>
+        <speech>    That which he loved, unknowing what he slew,
+</speech>
+        <speech>    And died unpardoned--though he called in aid
+</speech>
+        <speech>    The Phyxian Jove, and in Phigalia roused
+</speech>
+        <speech>    The Arcadian Evocators to compel
+</speech>
+        <speech>    The indignant shadow to depose her wrath,
+</speech>
+        <speech>    Or fix her term of vengeance--she replied                          190
+</speech>
+        <speech>    In words of dubious import, but fulfilled.
+</speech>
+        <speech>    If I had never lived, that which I love
+</speech>
+        <speech>    Had still been living; had I never loved,
+</speech>
+        <speech>    That which I love would still be beautiful,
+</speech>
+        <speech>    Happy and giving happiness. What is she?
+</speech>
+        <speech>    What is she now?--a sufferer for my sins--
+</speech>
+        <speech>    A thing I dare not think upon--or nothing.
+</speech>
+        <speech>    Within few hours I shall not call in vain--
+</speech>
+        <speech>    Yet in this hour I dread the thing I dare:
+</speech>
+        <speech>    Until this hour I never shrunk to gaze                             200
+</speech>
+        <speech>    On spirit, good or evil--now I tremble,
+</speech>
+        <speech>    And feel a strange cold thaw upon my heart.
+</speech>
+        <speech>    But I can act even what I most abhor,
+</speech>
+        <speech>    And champion human fears.--The night approaches.
+</speech>
+        <stage>                                                                  [Exit.]</stage>
       </scene>
-      <scene n="3">            SCENE III.<character name="FIRST DESTINY">     FIRST DESTINY.</character>
-        <character name="SECOND DESTINY">     SECOND DESTINY.</character>
-        <character name="THIRD DESTINY">     THIRD DESTINY.</character>
-        <character name="FIRST DESTINY">     FIRST DESTINY.</character>
-        <character name="NEMESIS">     NEMESIS.</character>
+      <scene n="3">            SCENE III.<stage>                          [Enter FIRST DESTINY.]</stage>
+        <speech>    The Moon is rising broad, and round, and bright;
+</speech>
+        <speech>    And here on snows, where never human foot
+</speech>
+        <speech>    Of common mortal trod, we nightly tread,
+</speech>
+        <speech>    And leave no traces: o'er the savage sea,
+</speech>
+        <speech>    The glassy ocean of the mountain ice,
+</speech>
+        <speech>    We skim its rugged breakers, which put on
+</speech>
+        <speech>    The aspect of a tumbling tempest's foam,
+</speech>
+        <speech>    Frozen in a moment--a dead Whirlpool's image:
+</speech>
+        <speech>    And this most steep fantastic pinnacle,
+</speech>
+        <speech>    The fretwork of some earthquake--where the clouds                   10
+</speech>
+        <speech>    Pause to repose themselves in passing by--
+</speech>
+        <speech>    Is sacred to our revels, or our vigils;
+</speech>
+        <speech>    Here do I wait my sisters, on our way
+</speech>
+        <speech>    To the Hall of Arimanes--for to-night
+</speech>
+        <speech>    Is our great festival--'tis strange they come not.
+</speech>
+        <speech>                       A Voice without, singing.
+</speech>
+        <speech>              The Captive Usurper,
+</speech>
+        <speech>                Hurled down from the throne,
+</speech>
+        <speech>              Lay buried in torpor,
+</speech>
+        <speech>                Forgotten and lone;
+</speech>
+        <speech>              I broke through his slumbers,                             20
+</speech>
+        <speech>                I shivered his chain,
+</speech>
+        <speech>              I leagued him with numbers--
+</speech>
+        <speech>                He's Tyrant again!
+</speech>
+        <speech>    With the blood of a million he'll answer my care,
+</speech>
+        <speech>    With a Nation's destruction--his flight and despair!
+</speech>
+        <speech>                         Second Voice, without.
+</speech>
+        <speech>    The Ship sailed on, the Ship sailed fast,
+</speech>
+        <speech>    But I left not a sail, and I left not a mast;
+</speech>
+        <speech>    There is not a plank of the hull or the deck,
+</speech>
+        <speech>    And there is not a wretch to lament o'er his wreck;
+</speech>
+        <speech>    Save one, whom I held, as he swam, by the hair,                     30
+</speech>
+        <speech>    And he was a subject well worthy my care;
+</speech>
+        <speech>    A traitor on land, and a pirate at sea--
+</speech>
+        <speech>    But I saved him to wreak further havoc for me!
+</speech>
+        <speech>                       FIRST DESTINY, answering.
+</speech>
+        <speech>          The City lies sleeping;
+</speech>
+        <speech>            The morn, to deplore it,
+</speech>
+        <speech>          May dawn on it weeping:
+</speech>
+        <speech>            Sullenly, slowly,
+</speech>
+        <speech>          The black plague flew o'er it--
+</speech>
+        <speech>            Thousands lie lowly;
+</speech>
+        <speech>          Tens of thousands shall perish;                               40
+</speech>
+        <speech>            The living shall fly from
+</speech>
+        <speech>          The sick they should cherish;
+</speech>
+        <speech>            But nothing can vanquish
+</speech>
+        <speech>          The touch that they die from.
+</speech>
+        <speech>            Sorrow and anguish,
+</speech>
+        <speech>          And evil and dread,
+</speech>
+        <speech>            Envelope a nation;
+</speech>
+        <speech>          The blest are the dead,
+</speech>
+        <speech>          Who see not the sight
+</speech>
+        <speech>            Of their own desolation;                                    50
+</speech>
+        <speech>          This work of a night--
+</speech>
+        <speech>    This wreck of a realm--this deed of my doing--
+</speech>
+        <speech>    For ages I've done, and shall still be renewing!
+</speech>
+        <stage>                [Enter the SECOND and THIRD DESTINIES.]</stage>
+        <speech>                               The Three.
+</speech>
+        <speech>    Our hands contain the hearts of men,
+</speech>
+        <speech>      Our footsteps are their graves;
+</speech>
+        <speech>    We only give to take again
+</speech>
+        <speech>      The Spirits of our slaves!
+</speech>
+        <speaker name="FIRST DESTINY">     FIRST DESTINY.</speaker>
+        <speech> Welcome!--Where's Nemesis?
+</speech>
+        <speaker name="SECOND DESTINY">     SECOND DESTINY.</speaker>
+        <speech>                          At some great work;
+</speech>
+        <speech>    But what I know not, for my hands were full.
+</speech>
+        <speaker name="THIRD DESTINY">     THIRD DESTINY.</speaker>
+        <speech> Behold she cometh.
+</speech>
+        <stage>                             [Enter NEMESIS.]</stage>
+        <speaker name="FIRST DESTINY">     FIRST DESTINY.</speaker>
+        <speech>                     Say, where hast thou been?         60
+</speech>
+        <speech>    My Sisters and thyself are slow to-night.
+</speech>
+        <speaker name="NEMESIS">     NEMESIS.</speaker>
+        <speech> I was detained repairing shattered thrones--
+</speech>
+        <speech>    Marrying fools, restoring dynasties--
+</speech>
+        <speech>    Avenging men upon their enemies,
+</speech>
+        <speech>    And making them repent their own revenge;
+</speech>
+        <speech>    Goading the wise to madness; from the dull
+</speech>
+        <speech>    Shaping out oracles to rule the world
+</speech>
+        <speech>    Afresh--for they were waxing out of date,
+</speech>
+        <speech>    And mortals dared to ponder for themselves,
+</speech>
+        <speech>    To weigh kings in the balance--and to speak                         70
+</speech>
+        <speech>    Of Freedom, the forbidden fruit.--Away!
+</speech>
+        <speech>    We have outstayed the hour--mount we our clouds!
+</speech>
+        <stage>                                                                [Exeunt.]</stage>
       </scene>
-      <scene n="4">    SCENE IV.<character name="FIRST DESTINY">     FIRST DESTINY.</character>
-        <character name="SECOND DESTINY">     SECOND DESTINY.</character>
-        <character name="THIRD DESTINY">     THIRD DESTINY.</character>
-        <character name="NEMESIS">     NEMESIS.</character>
-        <character name="SECOND SPIRIT">     SECOND SPIRIT.</character>
-        <character name="THIRD SPIRIT">     THIRD SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="FOURTH SPIRIT">     FOURTH SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="FIFTH SPIRIT">     FIFTH SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="FIRST DESTINY">     FIRST DESTINY.</character>
-        <character name="NEMESIS">     NEMESIS.</character>
-        <character name="FIRST DESTINY">     FIRST DESTINY.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="NEMESIS">     NEMESIS.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="NEMESIS">     NEMESIS.</character>
-        <character name="ARIMANES">     ARIMANES.</character>
-        <character name="NEMESIS">     NEMESIS.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="NEMESIS">     NEMESIS.</character>
-        <character name="ARIMANES">     ARIMANES.</character>
-        <character name="NEMESIS">     NEMESIS.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="NEMESIS">     NEMESIS.</character>
-        <character name="NEMESIS">     NEMESIS.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="NEMESIS">     NEMESIS.</character>
-        <character name="MANFRED">     MANFRED.</character>
+      <scene n="4">    SCENE IV.<speech>            a Globe of Fire, surrounded by the Spirits.
+</speech>
+        <speech>                          Hymn of the SPIRITS.
+</speech>
+        <speech>    Hail to our Master!--Prince of Earth and Air!
+</speech>
+        <speech>      Who walks the clouds and waters--in his hand
+</speech>
+        <speech>    The sceptre of the Elements, which tear
+</speech>
+        <speech>      Themselves to chaos at his high command!
+</speech>
+        <speech>    He breatheth--and a tempest shakes the sea;
+</speech>
+        <speech>      He speaketh--and the clouds reply in thunder;
+</speech>
+        <speech>    He gazeth--from his glance the sunbeams flee;
+</speech>
+        <speech>      He moveth--Earthquakes rend the world asunder.
+</speech>
+        <speech>    Beneath his footsteps the Volcanoes rise;
+</speech>
+        <speech>      His shadow is the Pestilence: his path                            10
+</speech>
+        <speech>    The comets herald through the crackling skies;
+</speech>
+        <speech>      And Planets turn to ashes at his wrath.
+</speech>
+        <speech>    To him War offers daily sacrifice;
+</speech>
+        <speech>      To him Death pays his tribute; Life is his,
+</speech>
+        <speech>    With all its Infinite of agonies--
+</speech>
+        <speech>      And his the Spirit of whatever is!
+</speech>
+        <stage>                   [Enter the DESTINIES and NEMESIS.]</stage>
+        <speaker name="FIRST DESTINY">     FIRST DESTINY.</speaker>
+        <speech> Glory to Arimanes! on the earth
+</speech>
+        <speech>    His power increaseth--both my sisters did
+</speech>
+        <speech>    His bidding, nor did I neglect my duty!
+</speech>
+        <speaker name="SECOND DESTINY">     SECOND DESTINY.</speaker>
+        <speech> Glory to Arimanes! we who bow                         20
+</speech>
+        <speech>    The necks of men, bow down before his throne!
+</speech>
+        <speaker name="THIRD DESTINY">     THIRD DESTINY.</speaker>
+        <speech> Glory to Arimanes! we await
+</speech>
+        <speech>    His nod!
+</speech>
+        <speaker name="NEMESIS">     NEMESIS.</speaker>
+        <speech>    Sovereign of Sovereigns! we are thine,
+</speech>
+        <speech>    And all that liveth, more or less, is ours,
+</speech>
+        <speech>    And most things wholly so; still to increase
+</speech>
+        <speech>    Our power, increasing thine, demands our care,
+</speech>
+        <speech>    And we are vigilant. Thy late commands
+</speech>
+        <speech>    Have been fulfilled to the utmost.
+</speech>
+        <stage>                             [Enter MANFRED.]</stage>
+        <speech>    A  SPIRIT.
+</speech>
+        <speech>                         What is here?
+</speech>
+        <speech>    A mortal!--Thou most rash and fatal wretch,
+</speech>
+        <speech>    Bow down and worship!
+</speech>
+        <speaker name="SECOND SPIRIT">     SECOND SPIRIT.</speaker>
+        <speech>              I do know the man--                   30
+</speech>
+        <speech>    A Magian of great power, and fearful skill!
+</speech>
+        <speaker name="THIRD SPIRIT">     THIRD SPIRIT.</speaker>
+        <speech> Bow down and worship, slave!--What, know'st thou not
+</speech>
+        <speech>    Thine and our Sovereign?--Tremble, and obey!
+</speech>
+        <speech>    All the Spirits. Prostrate thyself, and thy condemnéd clay,
+</speech>
+        <speech>    Child of the Earth! or dread the worst.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                                   I know it;
+</speech>
+        <speech>    And yet ye see I kneel not.
+</speech>
+        <speaker name="FOURTH SPIRIT">     FOURTH SPIRIT.</speaker>
+        <speech>             'Twill be taught thee.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> 'Tis taught already;--many a night on the earth,
+</speech>
+        <speech>    On the bare ground, have I bowed down my face,
+</speech>
+        <speech>    And strewed my head with ashes; I have known
+</speech>
+        <speech>    The fulness of humiliation--for                                     40
+</speech>
+        <speech>    I sunk before my vain despair, and knelt
+</speech>
+        <speech>    To my own desolation.
+</speech>
+        <speaker name="FIFTH SPIRIT">     FIFTH SPIRIT.</speaker>
+        <speech>         Dost thou dare
+</speech>
+        <speech>    Refuse to Arimanes on his throne
+</speech>
+        <speech>    What the whole earth accords, beholding not
+</speech>
+        <speech>    The terror of his Glory?--Crouch! I say.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Bid him bow down to that which is above him,
+</speech>
+        <speech>    The overruling Infinite--the Maker
+</speech>
+        <speech>    Who made him not for worship--let him kneel,
+</speech>
+        <speech>    And we will kneel together.
+</speech>
+        <speech>    The Spirits.               Crush the worm!
+</speech>
+        <speech>    Tear him in pieces!--
+</speech>
+        <speaker name="FIRST DESTINY">     FIRST DESTINY.</speaker>
+        <speech>            Hence! Avaunt!--he's mine.                  50
+</speech>
+        <speech>    Prince of the Powers invisible! This man
+</speech>
+        <speech>    Is of no common order, as his port
+</speech>
+        <speech>    And presence here denote: his sufferings
+</speech>
+        <speech>    Have been of an immortal nature--like
+</speech>
+        <speech>    Our own; his knowledge, and his powers and will,
+</speech>
+        <speech>    As far as is compatible with clay,
+</speech>
+        <speech>    Which clogs the ethereal essence, have been such
+</speech>
+        <speech>    As clay hath seldom borne; his aspirations
+</speech>
+        <speech>    Have been beyond the dwellers of the earth,
+</speech>
+        <speech>    And they have only taught him what we know--                        60
+</speech>
+        <speech>    That knowledge is not happiness, and science
+</speech>
+        <speech>    But an exchange of ignorance for that
+</speech>
+        <speech>    Which is another kind of ignorance.
+</speech>
+        <speech>    This is not all--the passions, attributes
+</speech>
+        <speech>    Of Earth and Heaven, from which no power, nor being,
+</speech>
+        <speech>    Nor breath from the worm upwards is exempt,
+</speech>
+        <speech>    Have pierced his heart; and in their consequence
+</speech>
+        <speech>    Made him a thing--which--I who pity not,
+</speech>
+        <speech>    Yet pardon those who pity. He is mine--
+</speech>
+        <speech>    And thine it may be; be it so, or not--                             70
+</speech>
+        <speech>    No other Spirit in this region hath
+</speech>
+        <speech>    A soul like his--or power upon his soul.
+</speech>
+        <speaker name="NEMESIS">     NEMESIS.</speaker>
+        <speech> What doth he here then?
+</speech>
+        <speaker name="FIRST DESTINY">     FIRST DESTINY.</speaker>
+        <speech>                   Let him answer that.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Ye know what I have known; and without power
+</speech>
+        <speech>    I could not be amongst ye: but there are
+</speech>
+        <speech>    Powers deeper still beyond--I come in quest
+</speech>
+        <speech>    Of such, to answer unto what I seek.
+</speech>
+        <speaker name="NEMESIS">     NEMESIS.</speaker>
+        <speech> What would'st thou?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                     Thou canst not reply to me.
+</speech>
+        <speech>    Call up the dead--my question is for them.
+</speech>
+        <speaker name="NEMESIS">     NEMESIS.</speaker>
+        <speech> Great Arimanes, doth thy will avouch                         80
+</speech>
+        <speech>    The wishes of this mortal?
+</speech>
+        <speaker name="ARIMANES">     ARIMANES.</speaker>
+        <speech>                       Yea.
+</speech>
+        <speaker name="NEMESIS">     NEMESIS.</speaker>
+        <speech>                            Whom wouldst thou
+</speech>
+        <speech>    Uncharnel?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>      One without a tomb--call up
+</speech>
+        <speech>    Astarte.
+</speech>
+        <speech>                                 NEMESIS.
+</speech>
+        <speech>              Shadow! or Spirit!
+</speech>
+        <speech>                Whatever thou art,
+</speech>
+        <speech>              Which still doth inherit
+</speech>
+        <speech>                The whole or a part
+</speech>
+        <speech>              Of the form of thy birth,
+</speech>
+        <speech>                Of the mould of thy clay,
+</speech>
+        <speech>              Which returned to the earth,                              90
+</speech>
+        <speech>                Re-appear to the day!
+</speech>
+        <speech>              Bear what thou borest,
+</speech>
+        <speech>                The heart and the form,
+</speech>
+        <speech>              And the aspect thou worest
+</speech>
+        <speech>                Redeem from the worm.
+</speech>
+        <speech>            Appear!--Appear!--Appear!
+</speech>
+        <speech>            Who sent thee there requires thee here!
+</speech>
+        <stage>                [The Phantom of ASTARTE rises and stands in the midst.]</stage>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Can this be death? there's bloom upon her cheek;
+</speech>
+        <speech>    But now I see it is no living hue,
+</speech>
+        <speech>    But a strange hectic--like the unnatural red                       100
+</speech>
+        <speech>    Which Autumn plants upon the perished leaf.
+</speech>
+        <speech>    It is the same! Oh, God! that I should dread
+</speech>
+        <speech>    To look upon the same--Astarte!--No,
+</speech>
+        <speech>    I cannot speak to her--but bid her speak--
+</speech>
+        <speech>    Forgive me or condemn me.
+</speech>
+        <speech>                                 NEMESIS.
+</speech>
+        <speech>            By the Power which hath broken
+</speech>
+        <speech>              The grave which enthralled thee,
+</speech>
+        <speech>            Speak to him who hath spoken.
+</speech>
+        <speech>              Or those who have called thee!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                      She is silent,
+</speech>
+        <speech>    And in that silence I am more than answered.                       110
+</speech>
+        <speaker name="NEMESIS">     NEMESIS.</speaker>
+        <speech> My power extends no further. Prince of Air!
+</speech>
+        <speech>    It rests with thee alone--command her voice.
+</speech>
+        <speaker name="ARIMANES">     ARIMANES.</speaker>
+        <speech> Spirit--obey this sceptre!
+</speech>
+        <speaker name="NEMESIS">     NEMESIS.</speaker>
+        <speech>                            Silent still!
+</speech>
+        <speech>    She is not of our order, but belongs
+</speech>
+        <speech>    To the other powers. Mortal! thy quest is vain,
+</speech>
+        <speech>    And we are baffled also.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                  Hear me, hear me--
+</speech>
+        <speech>    Astarte! my belovéd! speak to me:
+</speech>
+        <speech>    I have so much endured--so much endure--
+</speech>
+        <speech>    Look on me! the grave hath not changed thee more
+</speech>
+        <speech>    Than I am changed for thee. Thou lovedst me                        120
+</speech>
+        <speech>    Too much, as I loved thee: we were not made
+</speech>
+        <speech>    To torture thus each other--though it were
+</speech>
+        <speech>    The deadliest sin to love as we have loved.
+</speech>
+        <speech>    Say that thou loath'st me not--that I do bear
+</speech>
+        <speech>    This punishment for both--that thou wilt be
+</speech>
+        <speech>    One of the blesséd--and that I shall die;
+</speech>
+        <speech>    For hitherto all hateful things conspire
+</speech>
+        <speech>    To bind me in existence--in a life
+</speech>
+        <speech>    Which makes me shrink from Immortality--
+</speech>
+        <speech>    A future like the past. I cannot rest.                             130
+</speech>
+        <speech>    I know not what I ask, nor what I seek:
+</speech>
+        <speech>    I feel but what thou art, and what I am;
+</speech>
+        <speech>    And I would hear yet once before I perish
+</speech>
+        <speech>    The voice which was my music--Speak to me!
+</speech>
+        <speech>    For I have called on thee in the still night,
+</speech>
+        <speech>    Startled the slumbering birds from the hushed boughs,
+</speech>
+        <speech>    And woke the mountain wolves, and made the caves
+</speech>
+        <speech>    Acquainted with thy vainly echoed name,
+</speech>
+        <speech>    Which answered me--many things answered me--
+</speech>
+        <speech>    Spirits and men--but thou wert silent all.                         140
+</speech>
+        <speech>    Yet speak to me! I have outwatched the stars,
+</speech>
+        <speech>    And gazed o'er heaven in vain in search of thee.
+</speech>
+        <speech>    Speak to me! I have wandered o'er the earth,
+</speech>
+        <speech>    And never found thy likeness--Speak to me!
+</speech>
+        <speech>    Look on the fiends around--they feel for me:
+</speech>
+        <speech>    I fear them not, and feel for thee alone.
+</speech>
+        <speech>    Speak to me! though it be in wrath;--but say--
+</speech>
+        <speech>    I reck not what--but let me hear thee once--
+</speech>
+        <speech>    This once--once more!
+</speech>
+        <speech>     PHANTOM OF ASTARTE.
+</speech>
+        <speech>   Manfred!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                           Say on, say on--
+</speech>
+        <speech>    I live but in the sound--it is thy voice!                          150
+</speech>
+        <speech>     PHANTOM OF ASTARTE.
+</speech>
+        <speech> Manfred! To-morrow ends thine earthly ills.
+</speech>
+        <speech>    Farewell!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>    Yet one word more--am I forgiven?
+</speech>
+        <speech>     PHANTOM OF ASTARTE.
+</speech>
+        <speech> Farewell!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>            Say, shall we meet again?
+</speech>
+        <speech>     PHANTOM OF ASTARTE.
+</speech>
+        <speech>                                    Farewell!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> One word for mercy! Say thou lovest me.
+</speech>
+        <speech>     PHANTOM OF ASTARTE.
+</speech>
+        <speech> Manfred!
+</speech>
+        <stage>                                    [The Spirit of ASTARTE disappears.]</stage>
+        <speaker name="NEMESIS">     NEMESIS.</speaker>
+        <speech>           She's gone, and will not be recalled:
+</speech>
+        <speech>    Her words will be fulfilled. Return to the earth.
+</speech>
+        <speech>    A  SPIRIT.
+</speech>
+        <speech> He is convulsed--This is to be a mortal,
+</speech>
+        <speech>    And seek the things beyond mortality.
+</speech>
+        <speech>    Another  SPIRIT.
+</speech>
+        <speech> Yet, see, he mastereth himself, and makes
+</speech>
+        <speech>    His torture tributary to his will.                            160
+</speech>
+        <speech>    Had he been one of us, he would have made
+</speech>
+        <speech>    An awful  SPIRIT.
+</speech>
+        <speaker name="NEMESIS">     NEMESIS.</speaker>
+        <speech>           Hast thou further question
+</speech>
+        <speech>    Of our great Sovereign, or his worshippers?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> None.
+</speech>
+        <speaker name="NEMESIS">     NEMESIS.</speaker>
+        <speech>       Then for a time farewell.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> We meet then! Where? On the earth?--
+</speech>
+        <speech>    Even as thou wilt: and for the grace accorded
+</speech>
+        <speech>    I now depart a debtor. Fare ye well!
+</speech>
+        <stage>                                                          [Exit MANFRED.]</stage>
+        <speech>                            (Scene closes.)
+</speech>
       </scene>
     </act>
-    <act n="3">                                 ACT III.<scene n="1">             SCENE I.<character name="MANFRED">     MANFRED.</character>
-        <character name="HERMAN">     HERMAN.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="HERMAN">     HERMAN.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="HERMAN">     HERMAN.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
+    <act n="3">                                 ACT III.<scene n="1">             SCENE I.<speech>                          MANFRED and HERMAN.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> What is the hour?
+</speech>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech>                   It wants but one till sunset,
+</speech>
+        <speech>    And promises a lovely twilight.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                          Say,
+</speech>
+        <speech>    Are all things so disposed of in the tower
+</speech>
+        <speech>    As I directed?
+</speech>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech>        All, my Lord, are ready:
+</speech>
+        <speech>    Here is the key and casket.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                        It is well:
+</speech>
+        <speech>    Thou mayst retire.                                     [Exit HERMAN.]
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> (alone).     There is a calm upon me--
+</speech>
+        <speech>    Inexplicable stillness! which till now
+</speech>
+        <speech>    Did not belong to what I knew of life.
+</speech>
+        <speech>    If that I did not know Philosophy
+</speech>
+        <speech>    To be of all our vanities the motliest,                             10
+</speech>
+        <speech>    The merest word that ever fooled the ear
+</speech>
+        <speech>    From out the schoolman's jargon, I should deem
+</speech>
+        <speech>    The golden secret, the sought "Kalon," found,
+</speech>
+        <speech>    And seated in my soul. It will not last,
+</speech>
+        <speech>    But it is well to have known it, though but once:
+</speech>
+        <speech>    It hath enlarged my thoughts with a new sense,
+</speech>
+        <speech>    And I within my tablets would note down
+</speech>
+        <speech>    That there is such a feeling. Who is there?
+</speech>
+        <stage>                            [Re-enter HERMAN.]</stage>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech> My Lord, the Abbot of St. Maurice craves
+</speech>
+        <speech>    To greet your presence.
+</speech>
+        <stage>                    [Enter the ABBOT OF ST. MAURICE.]</stage>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>                 Peace be with Count Manfred!              20
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Thanks, holy father! welcome to these walls;
+</speech>
+        <speech>    Thy presence honours them, and blesseth those
+</speech>
+        <speech>    Who dwell within them.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>              Would it were so, Count!--
+</speech>
+        <speech>    But I would fain confer with thee alone.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Herman, retire.--What would my reverend guest?
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> Thus, without prelude:--Age and zeal--my office--
+</speech>
+        <speech>    And good intent must plead my privilege;
+</speech>
+        <speech>    Our near, though not acquainted neighbourhood,
+</speech>
+        <speech>    May also be my herald. Rumours strange,
+</speech>
+        <speech>    And of unholy nature, are abroad,                                   30
+</speech>
+        <speech>    And busy with thy name--a noble name
+</speech>
+        <speech>    For centuries: may he who bears it now
+</speech>
+        <speech>    Transmit it unimpaired!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                  Proceed,--I listen.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> 'Tis said thou holdest converse with the things
+</speech>
+        <speech>    Which are forbidden to the search of man;
+</speech>
+        <speech>    That with the dwellers of the dark abodes,
+</speech>
+        <speech>    The many evil and unheavenly spirits
+</speech>
+        <speech>    Which walk the valley of the Shade of Death,
+</speech>
+        <speech>    Thou communest. I know that with mankind,
+</speech>
+        <speech>    Thy fellows in creation, thou dost rarely                           40
+</speech>
+        <speech>    Exchange thy thoughts, and that thy solitude
+</speech>
+        <speech>    Is as an Anchorite's--were it but holy.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> And what are they who do avouch these things?
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> My pious brethren--the scaréd peasantry--
+</speech>
+        <speech>    Even thy own vassals--who do look on thee
+</speech>
+        <speech>    With most unquiet eyes. Thy life's in peril!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Take it.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>        I come to save, and not destroy:
+</speech>
+        <speech>    I would not pry into thy secret soul;
+</speech>
+        <speech>    But if these things be sooth, there still is time
+</speech>
+        <speech>    For penitence and pity: reconcile thee                              50
+</speech>
+        <speech>    With the true church, and through the church to Heaven.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> I hear thee. This is my reply--whate'er
+</speech>
+        <speech>    I may have been, or am, doth rest between
+</speech>
+        <speech>    Heaven and myself--I shall not choose a mortal
+</speech>
+        <speech>    To be my mediator--Have I sinned
+</speech>
+        <speech>    Against your ordinances? prove and punish!
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> My son! I did not speak of punishment,
+</speech>
+        <speech>    But penitence and pardon;--with thyself
+</speech>
+        <speech>    The choice of such remains--and for the last,
+</speech>
+        <speech>    Our institutions and our strong belief                              60
+</speech>
+        <speech>    Have given me power to smooth the path from sin
+</speech>
+        <speech>    To higher hope and better thoughts; the first
+</speech>
+        <speech>    I leave to Heaven,--"Vengeance is mine alone!"
+</speech>
+        <speech>    So saith the Lord, and with all humbleness
+</speech>
+        <speech>    His servant echoes back the awful word.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Old man! there is no power in holy men,
+</speech>
+        <speech>    Nor charm in prayer, nor purifying form
+</speech>
+        <speech>    Of penitence, nor outward look, nor fast,
+</speech>
+        <speech>    Nor agony--nor, greater than all these,
+</speech>
+        <speech>    The innate tortures of that deep Despair,                           70
+</speech>
+        <speech>    Which is Remorse without the fear of Hell,
+</speech>
+        <speech>    But all in all sufficient to itself
+</speech>
+        <speech>    Would make a hell of Heaven--can exorcise
+</speech>
+        <speech>    From out the unbounded spirit the quick sense
+</speech>
+        <speech>    Of its own sins--wrongs--sufferance--and revenge
+</speech>
+        <speech>    Upon itself; there is no future pang
+</speech>
+        <speech>    Can deal that justice on the self--condemned
+</speech>
+        <speech>    He deals on his own soul.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>                 All this is well;
+</speech>
+        <speech>    For this will pass away, and be succeeded
+</speech>
+        <speech>    By an auspicious hope, which shall look up                          80
+</speech>
+        <speech>    With calm assurafice to that blessed place,
+</speech>
+        <speech>    Which all who seek may win, whatever be
+</speech>
+        <speech>    Their earthly errors, so they be atoned:
+</speech>
+        <speech>    And the commencement of atonement is
+</speech>
+        <speech>    The sense of its necessity. Say on--
+</speech>
+        <speech>    And all our church can teach thee shall be taught;
+</speech>
+        <speech>    And all we can absolve thee shall be pardoned.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> When Rome's sixth Emperor was near his last,
+</speech>
+        <speech>    The victim of a self-inflicted wound,
+</speech>
+        <speech>    To shun the torments of a public death                          90
+</speech>
+        <speech>    From senates once his slaves, a certain soldier,
+</speech>
+        <speech>    With show of loyal pity, would have stanched
+</speech>
+        <speech>    The gushing throat with his officious robe;
+</speech>
+        <speech>    The dying Roman thrust him back, and said--
+</speech>
+        <speech>    Some empire still in his expiring glance--
+</speech>
+        <speech>    "It is too late--is this fidelity?"
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> And what of this?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                     I answer with the Roman--
+</speech>
+        <speech>    "It is too late!"
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>           It never can be so,
+</speech>
+        <speech>    To reconcile thyself with thy own soul,
+</speech>
+        <speech>    And thy own soul with Heaven. Hast thou no hope?                   100
+</speech>
+        <speech>    'Tis strange--even those who do despair above,
+</speech>
+        <speech>    Yet shape themselves some fantasy on earth,
+</speech>
+        <speech>    To which frail twig they cling, like drowning men.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Aye--father! I have had those early visions,
+</speech>
+        <speech>    And noble aspirations in my youth,
+</speech>
+        <speech>    To make my own the mind of other men,
+</speech>
+        <speech>    The enlightener of nations; and to rise
+</speech>
+        <speech>    I knew not whither--it might be to fall;
+</speech>
+        <speech>    But fall, even as the mountain-cataract,
+</speech>
+        <speech>    Which having leapt from its more dazzling height,                  110
+</speech>
+        <speech>    Even in the foaming strength of its abyss,
+</speech>
+        <speech>    (Which casts up misty columns that become
+</speech>
+        <speech>    Clouds raining from the re-ascended skies,)
+</speech>
+        <speech>    Lies low but mighty still.--But this is past,
+</speech>
+        <speech>    My thoughts mistook themselves.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>                         And wherefore so?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>I could not tame my nature down; for he
+</speech>
+        <speech>    Must serve who fain would sway; and soothe, and sue,
+</speech>
+        <speech>    And watch all time, and pry into all place,
+</speech>
+        <speech>    And be a living Lie, who would become
+</speech>
+        <speech>    A mighty thing amongst the mean--and such                          120
+</speech>
+        <speech>    The mass are; I disdained to mingle with
+</speech>
+        <speech>    A herd, though to be leader--and of wolves,
+</speech>
+        <speech>    The lion is alone, and so am I.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> And why not live and act with other men?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Because my nature was averse from life;
+</speech>
+        <speech>    And yet not cruel; for I would not make,
+</speech>
+        <speech>    But find a desolation. Like the Wind,
+</speech>
+        <speech>    The red-hot breath of the most lone Simoom,
+</speech>
+        <speech>    Which dwells but in the desert, and sweeps o'er
+</speech>
+        <speech>    The barren sands which bear no shrubs to blast,                    130
+</speech>
+        <speech>    And revels o'er their wild and arid waves,
+</speech>
+        <speech>    And seeketh not, so that it is not sought,
+</speech>
+        <speech>    But being met is deadly,--such hath been
+</speech>
+        <speech>    The course of my existence; but there came
+</speech>
+        <speech>    Things in my path which are no more.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>                             Alas!
+</speech>
+        <speech>    I 'gin to fear that thou art past all aid
+</speech>
+        <speech>    From me and from my calling; yet so young,
+</speech>
+        <speech>    I still would----
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>              Look on me! there is an order
+</speech>
+        <speech>    Of mortals on the earth, who do become
+</speech>
+        <speech>    Old in their youth, and die ere middle age,                   140
+</speech>
+        <speech>    Without the violence of warlike death;
+</speech>
+        <speech>    Some perishing of pleasure--some of study--
+</speech>
+        <speech>    Some worn with toil, some of mere weariness,--
+</speech>
+        <speech>    Some of disease--and some insanity--
+</speech>
+        <speech>    And some of withered, or of broken hearts;
+</speech>
+        <speech>    For this last is a malady which slays
+</speech>
+        <speech>    More than are numbered in the lists of Fate,
+</speech>
+        <speech>    Taking all shapes, and bearing many names.
+</speech>
+        <speech>    Look upon me! for even of all these things
+</speech>
+        <speech>    Have I partaken; and of all these things,                          150
+</speech>
+        <speech>    One were enough; then wonder not that I
+</speech>
+        <speech>    Am what I am, but that I ever was,
+</speech>
+        <speech>    Or having been, that I am still on earth.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> Yet, hear me still--
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                        Old man! I do respect
+</speech>
+        <speech>    Thine order, and revere thine years; I deem
+</speech>
+        <speech>    Thy purpose pious, but it is in vain:
+</speech>
+        <speech>    Think me not churlish; I would spare thyself,
+</speech>
+        <speech>    Far more than me, in shunning at this time
+</speech>
+        <speech>    All further colloquy--and so--farewell.
+</speech>
+        <stage>                                                            [Exit MANFRED.]</stage>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> This should have been a noble creature: he                160
+</speech>
+        <speech>    Hath all the energy which would have made
+</speech>
+        <speech>    A goodly frame of glorious elements,
+</speech>
+        <speech>    Had they been wisely mingled; as it is,
+</speech>
+        <speech>    It is an awful chaos--Light and Darkness--
+</speech>
+        <speech>    And mind and dust--and passions and pure thoughts
+</speech>
+        <speech>    Mixed, and contending without end or order,--
+</speech>
+        <speech>    All dormant or destructive. He will perish--
+</speech>
+        <speech>    And yet he must not--I will try once more,
+</speech>
+        <speech>    For such are worth redemption; and my duty
+</speech>
+        <speech>    Is to dare all things for a righteous end.                         170
+</speech>
+        <speech>    I'll follow him--but cautiously, though surely.
+</speech>
+        <stage>                                                              [Exit ABBOT.]</stage>
       </scene>
-      <scene n="2">                      SCENE II.<character name="HERMAN">     HERMAN.</character>
-        <character name="MANFRED">     MANFRED.</character>
+      <scene n="2">                      SCENE II.<speech>                          MANFRED and HERMAN.
+</speech>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech> My lord, you bade me wait on you at sunset:
+</speech>
+        <speech>    He sinks behind the mountain.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                        Doth he so?
+</speech>
+        <speech>    I will look on him.
+</speech>
+        <stage>                            [MANFRED advances to the Window of the Hall.]</stage>
+        <speech>                        Glorious Orb! the idol
+</speech>
+        <speech>    Of early nature, and the vigorous race
+</speech>
+        <speech>    Of undiseased mankind, the giant sons
+</speech>
+        <speech>    Of the embrace of Angels, with a sex
+</speech>
+        <speech>    More beautiful than they, which did draw down
+</speech>
+        <speech>    The erring Spirits who can ne'er return.--
+</speech>
+        <speech>    Most glorious Orb! that wert a worship, ere
+</speech>
+        <speech>    The mystery of thy making was revealed!                             10
+</speech>
+        <speech>    Thou earliest minister of the Almighty,
+</speech>
+        <speech>    Which gladdened, on their mountain tops, the hearts
+</speech>
+        <speech>    Of the Chaldean shepherds, till they poured
+</speech>
+        <speech>    Themselves in orisons! Thou material God!
+</speech>
+        <speech>    And representative of the Unknown--
+</speech>
+        <speech>    Who chose thee for his shadow! Thou chief Star!
+</speech>
+        <speech>    Centre of many stars! which mak'st our earth
+</speech>
+        <speech>    Endurable and temperest the hues
+</speech>
+        <speech>    And hearts of all who walk within thy rays!
+</speech>
+        <speech>    Sire of the seasons! Monarch of the climes,                         20
+</speech>
+        <speech>    And those who dwell in them! for near or far,
+</speech>
+        <speech>    Our inborn spirits have a tint of thee
+</speech>
+        <speech>    Even as our outward aspects;--thou dost rise,
+</speech>
+        <speech>    And shine, and set in glory. Fare thee well!
+</speech>
+        <speech>    I ne'er shall see thee more. As my first glance
+</speech>
+        <speech>    Of love and wonder was for thee, then take
+</speech>
+        <speech>    My latest look: thou wilt not beam on one
+</speech>
+        <speech>    To whom the gifts of life and warmth have been
+</speech>
+        <speech>    Of a more fatal nature. He is gone--
+</speech>
+        <speech>    I follow.                                             [Exit MANFRED.]
+</speech>
       </scene>
-      <scene n="3">       SCENE III.<character name="HERMAN">     HERMAN.</character>
-        <character name="MANUEL">     MANUEL.</character>
-        <character name="HERMAN">     HERMAN.</character>
-        <character name="MANUEL">     MANUEL.</character>
-        <character name="HERMAN">     HERMAN.</character>
-        <character name="MANUEL">     MANUEL.</character>
-        <character name="HERMAN">     HERMAN.</character>
-        <character name="MANUEL">     MANUEL.</character>
-        <character name="HERMAN">     HERMAN.</character>
-        <character name="MANUEL">     MANUEL.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="HERMAN">     HERMAN.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANUEL">     MANUEL.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="HERMAN">     HERMAN.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="HERMAN">     HERMAN.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANUEL">     MANUEL.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANUEL">     MANUEL.</character>
+      <scene n="3">       SCENE III.<speech>        distance--A Terrace before a Tower.--Time, Twilight.
+</speech>
+        <speech>            HERMAN, MANUEL, and other dependants of MANFRED.
+</speech>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech> 'Tis strange enough! night after night, for years,
+</speech>
+        <speech>    He hath pursued long vigils in this tower,
+</speech>
+        <speech>    Without a witness. I have been within it,--
+</speech>
+        <speech>    So have we all been oft-times; but from it,
+</speech>
+        <speech>    Or its contents, it were impossible
+</speech>
+        <speech>    To draw conclusions absolute, of aught
+</speech>
+        <speech>    His studies tend to. To be sure, there is
+</speech>
+        <speech>    One chamber where none enter: I would give
+</speech>
+        <speech>    The fee of what I have to come these three years,
+</speech>
+        <speech>    To pore upon its mysteries.
+</speech>
+        <speaker name="MANUEL">     MANUEL.</speaker>
+        <speech>                 'Twere dangerous;                        10
+</speech>
+        <speech>    Content thyself with what thou know'st already.
+</speech>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech> Ah! Manuel! thou art elderly and wise,
+</speech>
+        <speech>    And couldst say much; thou hast dwelt within the castle--
+</speech>
+        <speech>    How many years is't?
+</speech>
+        <speaker name="MANUEL">     MANUEL.</speaker>
+        <speech>           Ere Count Manfred's birth,
+</speech>
+        <speech>    I served his father, whom he nought resembles.
+</speech>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech> There be more sons in like predicament!
+</speech>
+        <speech>    But wherein do they differ?
+</speech>
+        <speaker name="MANUEL">     MANUEL.</speaker>
+        <speech>                  I speak not
+</speech>
+        <speech>    Of features or of form, but mind and habits;
+</speech>
+        <speech>    Count Sigismund was proud, but gay and free,--
+</speech>
+        <speech>    A warrior and a reveller; he dwelt not                              20
+</speech>
+        <speech>    With books and solitude, nor made the night
+</speech>
+        <speech>    A gloomy vigil, but a festal time,
+</speech>
+        <speech>    Merrier than day; he did not walk the rocks
+</speech>
+        <speech>    And forests like a wolf, nor turn aside
+</speech>
+        <speech>    From men and their delights.
+</speech>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech>                       Beshrew the hour,
+</speech>
+        <speech>    But those were jocund times! I would that such
+</speech>
+        <speech>    Would visit the old walls again; they look
+</speech>
+        <speech>    As if they had forgotten them.
+</speech>
+        <speaker name="MANUEL">     MANUEL.</speaker>
+        <speech>                     These walls
+</speech>
+        <speech>    Must change their chieftain first. Oh! I have seen
+</speech>
+        <speech>    Some strange things in them, Herman.
+</speech>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech>                               Come, be friendly;             30
+</speech>
+        <speech>    Relate me some to while away our watch:
+</speech>
+        <speech>    I've heard thee darkly speak of an event
+</speech>
+        <speech>    Which happened hereabouts, by this same tower.
+</speech>
+        <speaker name="MANUEL">     MANUEL.</speaker>
+        <speech>That was a night indeed! I do remember
+</speech>
+        <speech>    'Twas twilight, as it may be now, and such
+</speech>
+        <speech>    Another evening:--yon red cloud, which rests
+</speech>
+        <speech>    On Eigher's pinnacle, so rested then,--
+</speech>
+        <speech>    So like that it might be the same; the wind
+</speech>
+        <speech>    Was faint and gusty, and the mountain snows
+</speech>
+        <speech>    Began to glitter with the climbing moon;                            40
+</speech>
+        <speech>    Count Manfred was, as now, within his tower,--
+</speech>
+        <speech>    How occupied, we knew not, but with him
+</speech>
+        <speech>    The sole companion of his wanderings
+</speech>
+        <speech>    And watchings--her, whom of all earthly things
+</speech>
+        <speech>    That lived, the only thing he seemed to love,--
+</speech>
+        <speech>    As he, indeed, by blood was bound to do,
+</speech>
+        <speech>    The Lady Astarte, his----
+</speech>
+        <speech>                              Hush! who comes here?
+</speech>
+        <stage>                            [Enter the ABBOT.]</stage>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> Where is your master?
+</speech>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech>                          Yonder in the tower.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> I must speak with him.
+</speech>
+        <speaker name="MANUEL">     MANUEL.</speaker>
+        <speech>                      'Tis impossible;
+</speech>
+        <speech>    He is most private, and must not be thus                            50
+</speech>
+        <speech>    Intruded on.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>      Upon myself I take
+</speech>
+        <speech>    The forfeit of my fault, if fault there be--
+</speech>
+        <speech>    But I must see him.
+</speech>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech>              Thou hast seen him once
+</speech>
+        <speech>    his eve already.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>          Herman! I command thee,
+</speech>
+        <speech>    Knock, and apprize the Count of my approach.
+</speech>
+        <speaker name="HERMAN">     HERMAN.</speaker>
+        <speech> We dare not.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>            Then it seems I must be herald
+</speech>
+        <speech>    Of my own purpose.
+</speech>
+        <speaker name="MANUEL">     MANUEL.</speaker>
+        <speech>         Reverend father, stop--
+</speech>
+        <speech>    I pray you pause.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>          Why so?
+</speech>
+        <speaker name="MANUEL">     MANUEL.</speaker>
+        <speech>                But step this way,
+</speech>
+        <speech>    And I will tell you further.                                [Exeunt.]
+</speech>
       </scene>
-      <scene n="4">                   SCENE IV.<character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="SPIRIT">     SPIRIT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
-        <character name="MANFRED">     MANFRED.</character>
-        <character name="ABBOT">     ABBOT.</character>
+      <scene n="4">                   SCENE IV.<speech>                             MANFRED alone.
+</speech>
+        <speech>    The stars are forth, the moon above the tops
+</speech>
+        <speech>    Of the snow-shining mountains.--Beautiful!
+</speech>
+        <speech>    I linger yet with Nature, for the Night
+</speech>
+        <speech>    Hath been to me a more familiar face
+</speech>
+        <speech>    Than that of man; and in her starry shade
+</speech>
+        <speech>    Of dim and solitary loveliness,
+</speech>
+        <speech>    I learned the language of another world.
+</speech>
+        <speech>    I do remember me, that in my youth,
+</speech>
+        <speech>    When I was wandering,--upon such a night
+</speech>
+        <speech>    I stood within the Coliseum's wall,                            10
+</speech>
+        <speech>    'Midst the chief relics of almighty Rome;
+</speech>
+        <speech>    The trees which grew along the broken arches
+</speech>
+        <speech>    Waved dark in the blue midnight, and the stars
+</speech>
+        <speech>    Shone through the rents of ruin; from afar
+</speech>
+        <speech>    The watch-dog bayed beyond the Tiber; and
+</speech>
+        <speech>    More near from out the Cæsars' palace came
+</speech>
+        <speech>    The owl's long cry, and, interruptedly,
+</speech>
+        <speech>    Of distant sentinels the fitful song
+</speech>
+        <speech>    Begun and died upon the gentle wind.
+</speech>
+        <speech>    Some cypresses beyond the time-worn breach                          20
+</speech>
+        <speech>    Appeared to skirt the horizon, yet they stood
+</speech>
+        <speech>    Within a bowshot. Where the Cæsars dwelt,
+</speech>
+        <speech>    And dwell the tuneless birds of night, amidst
+</speech>
+        <speech>    A grove which springs through levelled battlements,
+</speech>
+        <speech>    And twines its roots with the imperial hearths,
+</speech>
+        <speech>    Ivy usurps the laurel's place of growth;
+</speech>
+        <speech>    But the gladiators' bloody Circus stands,
+</speech>
+        <speech>    A noble wreck in ruinous perfection,
+</speech>
+        <speech>    While Cæsar's chambers, and the Augustan halls,
+</speech>
+        <speech>    Grovel on earth in indistinct decay.--                              30
+</speech>
+        <speech>    And thou didst shine, thou rolling Moon, upon
+</speech>
+        <speech>    All this, and cast a wide and tender light,
+</speech>
+        <speech>    Which softened down the hoar austerity
+</speech>
+        <speech>    Of rugged desolation, and filled up,
+</speech>
+        <speech>    As 'twere anew, the gaps of centuries;
+</speech>
+        <speech>    Leaving that beautiful which still was so,
+</speech>
+        <speech>    And making that which was not--till the place
+</speech>
+        <speech>    Became religion, and the heart ran o'er
+</speech>
+        <speech>    With silent worship of the Great of old,--
+</speech>
+        <speech>    The dead, but sceptred, Sovereigns, who still rule                  40
+</speech>
+        <speech>    Our spirits from their urns.
+</speech>
+        <speech>                                 'Twas such a night!
+</speech>
+        <speech>    'Tis strange that I recall it at this time;
+</speech>
+        <speech>    But I have found our thoughts take wildest flight
+</speech>
+        <speech>    Even at the moment when they should array
+</speech>
+        <speech>    Themselves in pensive order.
+</speech>
+        <stage>                            [Enter the ABBOT.]</stage>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>                     My good Lord!
+</speech>
+        <speech>    I crave a second grace for this approach;
+</speech>
+        <speech>    But yet let not my humble zeal offend
+</speech>
+        <speech>    By its abruptness--all it hath of ill
+</speech>
+        <speech>    Recoils on me; its good in the effect
+</speech>
+        <speech>    May light upon your head--could I say heart--                      50
+</speech>
+        <speech>    Could I touch that, with words or prayers, I should
+</speech>
+        <speech>    Recall a noble spirit which hath wandered,
+</speech>
+        <speech>    But is not yet all lost.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                  Thou know'st me not;
+</speech>
+        <speech>    My days are numbered, and my deeds recorded:
+</speech>
+        <speech>    Retire, or 'twill be dangerous--Away!
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> Thou dost not mean to menace me?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                                   Not I!
+</speech>
+        <speech>    I simply tell thee peril is at hand,
+</speech>
+        <speech>    And would preserve thee.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>                 What dost thou mean?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                                       Look there!
+</speech>
+        <speech>    What dost thou see?
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>           Nothing.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                      Look there, I say,
+</speech>
+        <speech>    And steadfastly;--now tell me what thou seest?                      60
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> That which should shake me,--but I fear it not:
+</speech>
+        <speech>    I see a dusk and awful figure rise,
+</speech>
+        <speech>    Like an infernal god, from out the earth;
+</speech>
+        <speech>    His face wrapt in a mantle, and his form
+</speech>
+        <speech>    Robed as with angry clouds: he stands between
+</speech>
+        <speech>    Thyself and me--but I do fear him not.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Thou hast no cause--he shall not harm thee--but
+</speech>
+        <speech>    His sight may shock thine old limbs into palsy.
+</speech>
+        <speech>    I say to thee--Retire!
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>              And I reply--
+</speech>
+        <speech>    Never--till I have battled with this fiend:--                       70
+</speech>
+        <speech>    What doth he here?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>             Why--aye--what doth he here?
+</speech>
+        <speech>    I did not send for him,--he is unbidden.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> Alas! lost Mortal! what with guests like these
+</speech>
+        <speech>    Hast thou to do? I tremble for thy sake:
+</speech>
+        <speech>    Why doth he gaze on thee, and thou on him?
+</speech>
+        <speech>    Ah! he unveils his aspect: on his brow
+</speech>
+        <speech>    The thunder-scars are graven; from his eye
+</speech>
+        <speech>    Glares forth the immortality of Hell--
+</speech>
+        <speech>    Avaunt!--
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>        Pronounce--what is thy mission?
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech>                                     Come!
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> What art thou, unknown being? answer!--speak!              80
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech> The genius of this mortal.--Come!'tis time.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> I am prepared for all things, but deny
+</speech>
+        <speech>    The Power which summons me. Who sent thee here?
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech> Thou'lt know anon--Come! come!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                                  I have commanded
+</speech>
+        <speech>    Things of an essence greater far than thine,
+</speech>
+        <speech>    And striven with thy masters. Get thee hence!
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech> Mortal! thine hour is come--Away! I say.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> I knew, and know my hour is come, but not
+</speech>
+        <speech>    To render up my soul to such as thee:
+</speech>
+        <speech>    Away! I'll die as I have lived--alone.                              90
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech> Then I must summon up my brethren.--Rise!
+</speech>
+        <stage>                                                    [Other Spirits rise.]</stage>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> Avaunt! ye evil ones!--Avaunt! I say,--
+</speech>
+        <speech>    Ye have no power where Piety hath power,
+</speech>
+        <speech>    And I do charge ye in the name--
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech>                        Old man!
+</speech>
+        <speech>    We know ourselves, our mission, and thine order;
+</speech>
+        <speech>    Waste not thy holy words on idle uses,
+</speech>
+        <speech>    It were in vain: this man is forfeited.
+</speech>
+        <speech>    Once more--I summon him--Away! Away!
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> I do defy ye,--though I feel my soul
+</speech>
+        <speech>    Is ebbing from me, yet I do defy ye;                               100
+</speech>
+        <speech>    Nor will I hence, while I have earthly breath
+</speech>
+        <speech>    To breathe my scorn upon ye--earthly strength
+</speech>
+        <speech>    To wrestle, though with spirits; what ye take
+</speech>
+        <speech>    Shall be ta'en limb by limb.
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech>                    Reluctant mortal!
+</speech>
+        <speech>    Is this the Magian who would so pervade
+</speech>
+        <speech>    The world invisible, and make himself
+</speech>
+        <speech>    Almost our equal? Can it be that thou
+</speech>
+        <speech>    Art thus in love with life? the very life
+</speech>
+        <speech>    Which made thee wretched?
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>                   Thou false fiend, thou liest!
+</speech>
+        <speech>    My life is in its last hour,--that I know,                       110
+</speech>
+        <speech>    Nor would redeem a moment of that hour;
+</speech>
+        <speech>    I do not combat against Death, but thee
+</speech>
+        <speech>    And thy surrounding angels; my past power
+</speech>
+        <speech>    Was purchased by no compact with thy crew,
+</speech>
+        <speech>    But by superior science--penance, daring,
+</speech>
+        <speech>    And length of watching, strength of mind, and skill
+</speech>
+        <speech>    In knowledge of our Fathers--when the earth
+</speech>
+        <speech>    Saw men and spirits walking side by side,
+</speech>
+        <speech>    And gave ye no supremacy: I stand
+</speech>
+        <speech>    Upon my strength--I do defy--deny--                                120
+</speech>
+        <speech>    Spurn back, and scorn ye!--
+</speech>
+        <speaker name="SPIRIT">     SPIRIT.</speaker>
+        <speech>                 But thy many crimes
+</speech>
+        <speech>    Have made thee--
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech>          What are they to such as thee?
+</speech>
+        <speech>    Must crimes be punished but by other crimes,
+</speech>
+        <speech>    And greater criminals?--Back to thy hell!
+</speech>
+        <speech>    Thou hast no power upon me, that I feel;
+</speech>
+        <speech>    Thou never shalt possess me, that I know:
+</speech>
+        <speech>    What I have done is done; I bear within
+</speech>
+        <speech>    A torture which could nothing gain from thine:
+</speech>
+        <speech>    The Mind which is immortal makes itself
+</speech>
+        <speech>    Requital for its good or evil thoughts,--                          130
+</speech>
+        <speech>    Is its own origin of ill and end--
+</speech>
+        <speech>    And its own place and time: its innate sense,
+</speech>
+        <speech>    When stripped of this mortality, derives
+</speech>
+        <speech>    No colour from the fleeting things without,
+</speech>
+        <speech>    But is absorbed in sufferance or in joy,
+</speech>
+        <speech>    Born from the knowledge of its own desert.
+</speech>
+        <speech>    Thou didst not tempt me, and thou couldst not tempt me;
+</speech>
+        <speech>    I have not been thy dupe, nor am thy prey--
+</speech>
+        <speech>    But was my own destroyer, and will be
+</speech>
+        <speech>    My own hereafter.--Back, ye baffled fiends!                        140
+</speech>
+        <speech>    The hand of Death is on me--but not yours!
+</speech>
+        <stage>                                                  [The Demons disappear.]</stage>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> Alas! how pale thou art--thy lips are white--
+</speech>
+        <speech>    And thy breast heaves--and in thy gasping throat
+</speech>
+        <speech>    The accents rattle: Give thy prayers to Heaven--
+</speech>
+        <speech>    Pray--albeit but in thought,--but die not thus.
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> 'Tis over--my dull eyes can fix thee not;
+</speech>
+        <speech>    But all things swim around me, and the earth
+</speech>
+        <speech>    Heaves as it were beneath me. Fare thee well--
+</speech>
+        <speech>    Give me thy hand.
+</speech>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech>            Cold--cold--even to the heart--
+</speech>
+        <speech>    But yet one prayer--Alas! how fares it with thee?                  150
+</speech>
+        <speaker name="MANFRED">     MANFRED.</speaker>
+        <speech> Old man! 'tis not so difficult to die.
+</speech>
+        <stage>                                                       [MANFRED expires.]</stage>
+        <speaker name="ABBOT">     ABBOT.</speaker>
+        <speech> He's gone--his soul hath ta'en its earthless flight;
+</speech>
+        <speech>    Whither? I dread to think--but he is gone.
+</speech>
+        <speech>    </speech>
       </scene>
     </act>
   </drama>

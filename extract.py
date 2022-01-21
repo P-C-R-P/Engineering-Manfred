@@ -43,11 +43,11 @@ with open('./files/manfred_extracted.txt', 'r', encoding="utf-8") as file:
 data = data.replace('_', '')
 
 #splits the text at the initial castlist and removes footnotes
-new = re.split('DRAMATIS', data)
+new = re.split('Spirits, etc\.', data)
 for i in new:
     print(i)
 
-data = "DRAMATIS" + new[1]
+data = new[1]
 
 new2 = re.split('FOOTNOTES', data)
 for i in new2:
@@ -65,31 +65,34 @@ data = re.sub("ACT\s\d", 'ACT I', data)
 # converts SCENE 1 to roman numerals
 data = re.sub("SCENE\s\d", 'SCENE I', data)
 # Normalize character indications. Adds invisible unicode character U+200A at the beginning to make regex capturing easier at a later stage
-data = re.sub("Abbot\.", ' ABBOT.', data)
-data = re.sub("Manuel\. ", ' MANUEL.', data)
-data = re.sub("Man\.", ' MANFRED.', data)
-data = re.sub("Nem\.", ' NEMESIS.', data)
-data = re.sub("First Spirit\.", ' FIRST SPIRIT.', data)
-data = re.sub("Voice of the Third Spirit\.", ' THIRD SPIRIT.', data)
-data = re.sub("Voice of the Second Spirit\.", ' SECOND SPIRIT.', data)
-data = re.sub("Second Spirit\.", ' SECOND SPIRIT.', data)
-data = re.sub("Third Spirit\.", ' THIRD SPIRIT.', data)
-data = re.sub("Fourth Spirit\.", ' FOURTH SPIRIT.', data)
-data = re.sub("Fifth Spirit\.", ' FIFTH SPIRIT.', data)
-data = re.sub("Spirit\.", ' SPIRIT.', data)
-data = re.sub("C\. Hun\.", ' CHAMOIS HUNTER.', data)
-data = re.sub("Chamois Hunter\. ", ' CHAMOIS HUNTER.', data)
-data = re.sub("Her\.", ' HERMAN.', data)
-data = re.sub("Witch\.", ' WITCH.', data)
-data = re.sub("Ari\.", ' ARIMANES.', data)
-data = re.sub("First Des\.", ' FIRST DESTINY.', data)
-data = re.sub("Second Des\.", ' SECOND DESTINY.', data)
-data = re.sub("Third Des\.", ' THIRD DESTINY.', data)
-data = re.sub("Phantom of Astarte\.", ' PHANTOM OF ASTARTE.', data)
-data = re.sub("Phan\.", ' PHANTOM OF ASTARTE.', data)
+data = re.sub("Abbot\.", ' ABBOT.\n', data)
+data = re.sub("Manuel\. ", ' MANUEL.\n', data)
+data = re.sub("Man\.", ' MANFRED.\n', data)
+data = re.sub("Nem\.", ' NEMESIS.\n', data)
+data = re.sub("First Spirit\.", ' FIRST SPIRIT.\n', data)
+data = re.sub("Voice of the Third Spirit\.", ' THIRD SPIRIT.\n', data)
+data = re.sub("Voice of the Second Spirit\.", ' SECOND SPIRIT.\n', data)
+data = re.sub("Second Spirit\.", ' SECOND SPIRIT.\n', data)
+data = re.sub("Third Spirit\.", ' THIRD SPIRIT.\n', data)
+data = re.sub("Fourth Spirit\.", ' FOURTH SPIRIT.\n', data)
+data = re.sub("Fifth Spirit\.", ' FIFTH SPIRIT.\n', data)
+data = re.sub("Spirit\.", ' SPIRIT.\n', data)
+data = re.sub("C\. Hun\.", ' CHAMOIS HUNTER.\n', data)
+data = re.sub("Chamois Hunter\. ", ' CHAMOIS HUNTER.\n', data)
+data = re.sub("Her\.", ' HERMAN.\n', data)
+data = re.sub("Witch\.", ' WITCH.\n', data)
+data = re.sub("Ari\.", ' ARIMANES.\n', data)
+data = re.sub("First Des\.", ' FIRST DESTINY.\n', data)
+data = re.sub("Second Des\.", ' SECOND DESTINY.\n', data)
+data = re.sub("Third Des\.", ' THIRD DESTINY.\n', data)
+data = re.sub("Phantom of Astarte\.", ' PHANTOM OF ASTARTE.\n', data)
+data = re.sub("Phan\.", ' PHANTOM OF ASTARTE.\n', data)
 #normalize stage directions
-data = re.sub("(\[[a-zA-Z ]*\.)", '\\1]', data)
-
+data = re.sub("(\[[a-zA-Z '\s,]*\.)", '\\1]', data)
+data = re.sub("\s*(The[A-Za-z\s,-]*ins\.)\s", '[\\1]', data)
+data = re.sub("(Enter[a-zA-Z '.]*\.)", '[\\1]', data)
+data = re.sub("(Re-[a-zA-Z '.]*\.)", '[\\1]', data)
+data = re.sub("(After[a-zA-Z\s,.]*torrent\.)", '[\\1]', data)
 
 
 
