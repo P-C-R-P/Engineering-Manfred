@@ -88,6 +88,8 @@ data = re.sub("Third Des\.", ' THIRD DESTINY.', data)
 data = re.sub("Phantom of Astarte\.", ' PHANTOM OF ASTARTE.', data)
 data = re.sub("Phan\.", ' PHANTOM OF ASTARTE.', data)
 
+data = re.sub("(\[[a-zA-Z ]*\.)", '\\1]', data)
+
 
 
 
