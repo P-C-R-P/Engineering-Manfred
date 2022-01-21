@@ -55,7 +55,10 @@ for i in new2:
 
 data = new2[0]
 
+
+
 # removes footnotes in text
+data = re.sub("\[[a-z]{2}\]",'', data)
 data = re.sub("\[\d{3}\]", '', data)
 # converts ACT 1 to roman numerals (inconsistent Gutenberg number schemes)
 data = re.sub("ACT\s\d", 'ACT I', data)

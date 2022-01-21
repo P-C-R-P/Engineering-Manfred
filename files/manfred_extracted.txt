@@ -56,7 +56,7 @@ DRAMATIS PERSONÆ.
 
 
 
-    ~MANFRED. The lamp must be replenished, but even then
+     MANFRED. The lamp must be replenished, but even then
 
     It will not burn so long as I must watch:
 
@@ -114,7 +114,7 @@ DRAMATIS PERSONÆ.
 
                      Mysterious Agency!
 
-    Ye Spirits of the unbounded Universe![ap]
+    Ye Spirits of the unbounded Universe!
 
     Whom I have sought in darkness and in light--                       30
 
@@ -122,7 +122,7 @@ DRAMATIS PERSONÆ.
 
     In subtler essence--ye, to whom the tops
 
-    Of mountains inaccessible are haunts,[aq]
+    Of mountains inaccessible are haunts,
 
     And Earth's and Ocean's caves familiar things--
 
@@ -182,7 +182,7 @@ DRAMATIS PERSONÆ.
 
       With the azure and vermilion,
 
-      Which is mixed for my pavilion;[ar]
+      Which is mixed for my pavilion;
 
       Though thy quest may be forbidden,
 
@@ -220,7 +220,7 @@ DRAMATIS PERSONÆ.
 
     But I am he who bids it pass,                                       70
 
-      Or with its ice delay.[as]
+      Or with its ice delay.
 
     I am the Spirit of the place,
 
@@ -388,7 +388,7 @@ DRAMATIS PERSONÆ.
 
 
 
-    ~MANFRED. Forgetfulness----
+     MANFRED. Forgetfulness----
 
 
 
@@ -446,7 +446,7 @@ DRAMATIS PERSONÆ.
 
     Hath made you mine. Slaves, scoff not at my will!
 
-    The Mind--the Spirit--the Promethean spark,[at]
+    The Mind--the Spirit--the Promethean spark,
 
     The lightning of my being, is as bright,
 
@@ -454,7 +454,7 @@ DRAMATIS PERSONÆ.
 
     And shall not yield to yours, though cooped in clay!
 
-    Answer, or I will teach you what I am.[au]
+    Answer, or I will teach you what I am.
 
 
 
@@ -692,7 +692,7 @@ DRAMATIS PERSONÆ.
 
         And by thy brotherhood of Cain,
 
-        I call upon thee! and compel[av]                               250
+        I call upon thee! and compel                               250
 
         Thyself to be thy proper Hell!
 
@@ -918,7 +918,7 @@ DRAMATIS PERSONÆ.
 
     Rise curling fast beneath me, white and sulphury,
 
-    Like foam from the roused ocean of deep Hell,[aw]
+    Like foam from the roused ocean of deep Hell,
 
     Whose every wave breaks on a living shore,
 
@@ -1126,7 +1126,7 @@ DRAMATIS PERSONÆ.
 
 
 
-     CHAMOIS HUNTER. Man of strange words, and some half-maddening sin,[ax]
+     CHAMOIS HUNTER. Man of strange words, and some half-maddening sin,
 
     Which makes thee people vacancy, whate'er
 
@@ -1376,7 +1376,7 @@ DRAMATIS PERSONÆ.
 
     Beautiful Spirit! in thy calm clear brow,
 
-    Wherein is glassed serenity of Soul,[ay]
+    Wherein is glassed serenity of Soul,
 
     Which of itself shows immortality,
 
@@ -1666,7 +1666,7 @@ DRAMATIS PERSONÆ.
 
     Is mortal here: I dwell in my despair--
 
-    And live--and live for ever.[az]
+    And live--and live for ever.
 
 
 
@@ -1748,7 +1748,7 @@ DRAMATIS PERSONÆ.
 
     Forbears to pant for death, and yet draws back
 
-    As from a stream in winter, though the chill[ba]
+    As from a stream in winter, though the chill
 
     Be but a moment's. I have one resource
 
@@ -2050,7 +2050,7 @@ DRAMATIS PERSONÆ.
 
       His shadow is the Pestilence: his path                            10
 
-    The comets herald through the crackling skies;[bb]
+    The comets herald through the crackling skies;
 
       And Planets turn to ashes at his wrath.
 
@@ -2290,7 +2290,7 @@ DRAMATIS PERSONÆ.
 
                 Whatever thou art,
 
-              Which still doth inherit[bc]
+              Which still doth inherit
 
                 The whole or a part
 
@@ -2810,7 +2810,7 @@ DRAMATIS PERSONÆ.
 
     The victim of a self-inflicted wound,
 
-    To shun the torments of a public death[bd]                          90
+    To shun the torments of a public death                          90
 
     From senates once his slaves, a certain soldier,
 
@@ -3192,7 +3192,7 @@ DRAMATIS PERSONÆ.
 
     Must change their chieftain first. Oh! I have seen
 
-    Some strange things in them, Herman.[be]
+    Some strange things in them, Herman.
 
 
 
@@ -3276,7 +3276,7 @@ DRAMATIS PERSONÆ.
 
 
 
-     ABBOT.          Herman! I command thee,[bf]
+     ABBOT.          Herman! I command thee,
 
     Knock, and apprize the Count of my approach.
 
@@ -3574,7 +3574,7 @@ DRAMATIS PERSONÆ.
 
 
 
-     SPIRIT. Then I must summon up my brethren.--Rise![bg]
+     SPIRIT. Then I must summon up my brethren.--Rise!
 
                                                     [Other Spirits rise.
 
