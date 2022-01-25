@@ -6,14 +6,14 @@
                 <title>Manfred by George Gordon Byron</title>
             </head>
             <body>
-                <h2>Compiled by Philipa Payne and Fábio Cabral</h2>
+                <h2>Manfred by George Gordon Byron</h2>
                  <xsl:apply-templates/> 
             </body>
         </html>
     </xsl:template>
     
     <xsl:template match="act">
-    <p style="font-size: 30px; margin-left: 50"><xsl:apply-templates /></p>
+    <p style="font-size: 35px; margin-left: 50"><xsl:apply-templates /></p>
      <br/>
     </xsl:template>
 

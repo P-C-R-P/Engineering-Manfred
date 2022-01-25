@@ -11,7 +11,7 @@ data = response.readlines()
 with open('./files/manfred_full.txt', 'w', encoding = 'utf-8-sig') as file:
     for line in data:
         lines = line.decode('utf-8-sig')
-        print(lines)
+        #print(lines)
         file.write(lines)
 
 # Initial clean to only extract Manfred
@@ -19,18 +19,18 @@ with open('./files/manfred_full.txt', 'r', encoding = 'utf-8') as extract:
     text = extract.read()
 
 manfred_start = re.findall('Manfred:\n', text, re.IGNORECASE)
-print('This is the start of Manfred:', manfred_start)
+#print('This is the start of Manfred:', manfred_start)
 manfred_end = re.findall(r'.*poem."\]', text)
-print('This is the end of Manfred:', manfred_end)
+#print('This is the end of Manfred:', manfred_end)
 
 in_text_3 = text.index(manfred_start[0])
-print(in_text_3)
+#print(in_text_3)
 in_text_4 = text.index(manfred_end[0])
-print(in_text_4)
+#print(in_text_4)
 
 with open('./files/manfred_extracted.txt', 'w', encoding = 'utf-8') as manfred_extract:
         manfred_final = manfred_extract.write(text[in_text_3 : in_text_4 + len(manfred_end[0])])
-        print(manfred_final)
+        #print(manfred_final)
 
 
 #---------------------------------------------------------#
@@ -43,18 +43,17 @@ with open('./files/manfred_extracted.txt', 'r', encoding="utf-8") as file:
 data = data.replace('_', '')
 
 #splits the text at the initial castlist and removes footnotes
-new = re.split('Spirits, etc\.', data)
-for i in new:
-    print(i)
+new = re.split(' *ACT 1.\s', data)
+# for i in new:
+#     print(i)
 
-data = new[1]
+data = "ACT 1." + new[1]
 
 new2 = re.split('FOOTNOTES', data)
-for i in new2:
-    print(i)
+# for i in new2:
+#     print(i)
 
 data = new2[0]
-
 
 
 # removes footnotes in text
@@ -93,8 +92,7 @@ data = re.sub("\s*(The[A-Za-z\s,-]*ins\.)\s", '[\\1]', data)
 data = re.sub("(Enter[a-zA-Z '.]*\.)", '[\\1]', data)
 data = re.sub("(Re-[a-zA-Z '.]*\.)", '[\\1]', data)
 data = re.sub("(After[a-zA-Z\s,.]*torrent\.)", '[\\1]', data)
-
-
+data = re.sub("(--Manfred[A-Za-z,\-\s.]*Midnight.)", '', data)
 
 
 

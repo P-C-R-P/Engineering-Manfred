@@ -1,13 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <document>
   <header>
-    <title>Manfred - Ingénierie Documentaire (2021)</title>
     <authors>compiled by Philipa Payne et Fábio Cabral</authors>
   </header>
   <drama>
-    <act n="1">                                  ACT I.<scene n="1">      SCENE I.<speech>                            Time, Midnight.
-</speech>
-        <speaker name="MANFRED">     MANFRED.</speaker>
+    <act n="1">ACT I.<scene n="1">      SCENE I.<speaker name="MANFRED">     MANFRED.</speaker>
         <speech> The lamp must be replenished, but even then
 </speech>
         <speech>    It will not burn so long as I must watch:
