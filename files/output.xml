@@ -190,8 +190,7 @@
 </speech>
         <speech>      Thy wishes unfold!
 </speech>
-        <speech>                              FOURTH SPIRIT.
-</speech>
+        <speaker name="FOURTH SPIRIT">                               FOURTH SPIRIT.</speaker>
         <speech>    Where the slumbering Earthquake
 </speech>
         <speech>      Lies pillowed on fire,
@@ -216,8 +215,7 @@
 </speech>
         <speech>      Thy will be my guide!
 </speech>
-        <speech>                              FIFTH SPIRIT.
-</speech>
+        <speaker name="FOURTH SPIRIT">                               FOURTH SPIRIT.</speaker>
         <speech>    I am the Rider of the wind,                                        100
 </speech>
         <speech>      The Stirrer of the storm;
@@ -234,14 +232,12 @@
 </speech>
         <speech>      'Twill sink ere night be past.
 </speech>
-        <speech>                              SIXTH SPIRIT.
-</speech>
+        <speaker name="FOURTH SPIRIT">                               FOURTH SPIRIT.</speaker>
         <speech>    My dwelling is the shadow of the Night,
 </speech>
         <speech>    Why doth thy magic torture me with light?
 </speech>
-        <speech>                             SEVENTH SPIRIT.
-</speech>
+        <speaker name="FOURTH SPIRIT">                              FOURTH SPIRIT.</speaker>
         <speech>    The Star which rules thy destiny no                                110
 </speech>
         <speech>    Was ruled, ere earth began, by me:
@@ -286,8 +282,7 @@
 </speech>
         <speech>    What would'st thou, Child of Clay! with me?
 </speech>
-        <speech>                           The SEVEN SPIRITS.
-</speech>
+        <speaker name="FOURTH SPIRIT">                            FOURTH SPIRIT.</speaker>
         <speech>    Earth--ocean--air--night--mountains--winds--thy Star,
 </speech>
         <speech>      Are at thy beck and bidding, Child of Clay!
@@ -1836,7 +1831,7 @@
 </speech>
         <speech>    And yet ye see I kneel not.
 </speech>
-        <speaker name="FOURTH SPIRIT">     FOURTH SPIRIT.</speaker>
+        <speaker name="FOURTH SPIRIT">      FOURTH SPIRIT.</speaker>
         <speech>             'Twill be taught thee.
 </speech>
         <speaker name="MANFRED">     MANFRED.</speaker>
@@ -1852,7 +1847,7 @@
 </speech>
         <speech>    To my own desolation.
 </speech>
-        <speaker name="FIFTH SPIRIT">     FIFTH SPIRIT.</speaker>
+        <speaker name="FOURTH SPIRIT">      FOURTH SPIRIT.</speaker>
         <speech>         Dost thou dare
 </speech>
         <speech>    Refuse to Arimanes on his throne

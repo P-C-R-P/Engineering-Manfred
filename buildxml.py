@@ -57,7 +57,7 @@ with open (inputFile, 'r', encoding="utf-8") as txt_file:
             speaker.text = d.group()
         e = re.match(r'\s*(\[[A-za-z_\s:;.,-]*\])', line)
         if e:
-            print("Stage direction caught")
+            #print("Stage direction caught")
             stage = ET.SubElement(scene, 'stage')
             stage.text = e.group()
             
