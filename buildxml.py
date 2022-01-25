@@ -1,9 +1,6 @@
-import encodings
 import xml.etree.ElementTree as ET
 import lxml.etree as ET
 import re
-import fileinput
-import os
 
 
 inputFile = 'files/manfred_extracted.txt'
